@@ -1,0 +1,9 @@
+<application>
+  <component name="DefaultFont">
+    <option name="FONT_FAMILY" value="MonoLisa" />
+  </component>
+  <component name="EditorSettings">
+    <option name="SHOW_INSPECTION_WIDGET" value="false" />
+    <option name="IS_WHEEL_FONTCHANGE_ENABLED" value="true" />
+  </component>
+</application>

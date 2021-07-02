@@ -1,0 +1,124 @@
+<project version="4">
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="-1">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/CMakeLists.txt">
+          <provider selected="true" editor-type-id="text-editor" />
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/main.cpp">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="132">
+              <caret line="7" column="18" selection-start-line="7" selection-start-column="18" selection-end-line="7" selection-end-column="18" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$USER_HOME$/Downloads/Project40/Project40.sln">
+          <provider selected="true" editor-type-id="text-editor" />
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="IdeDocumentHistory">
+    <changedPaths>
+      <option value="$PROJECT_DIR$/main.cpp" />
+    </changedPaths>
+  </component>
+  <component name="IgnoredFileRootStore">
+    <option name="generatedRoots">
+      <set>
+        <option value="$PROJECT_DIR$/.idea" />
+      </set>
+    </option>
+  </component>
+  <component name="ProjectView">
+    <navigator currentView="ProjectPane" proportions="" version="1" />
+    <panes>
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="untitled5" type="b2602c69:ProjectViewProjectNode" />
+              <item name="untitled5" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="Scope" />
+    </panes>
+  </component>
+  <component name="ToolWindowManager">
+    <layout>
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.1677975" />
+      <window_info id="Structure" order="1" side_tool="true" />
+      <window_info id="Favorites" order="2" side_tool="true" />
+      <window_info id="Commit" order="3" />
+      <window_info id="Pull Requests" order="4" />
+      <window_info anchor="bottom" id="Event Log" order="0" side_tool="true" />
+      <window_info anchor="bottom" id="TODO" order="1" />
+      <window_info anchor="bottom" id="Problems View" order="2" />
+      <window_info anchor="bottom" id="Version Control" order="3" />
+      <window_info anchor="bottom" id="clangd" order="4" />
+      <window_info anchor="bottom" id="Python Packages" order="5" />
+      <window_info anchor="bottom" id="Internal Method Tracing" order="6" />
+      <window_info anchor="bottom" id="Messages" order="7" weight="0.3303232" />
+      <window_info anchor="bottom" id="CMake" order="8" visible="true" weight="0.16492395" />
+      <window_info anchor="bottom" id="File Transfer" order="9" />
+      <window_info anchor="bottom" id="Database Changes" order="10" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Run" order="11" weight="0.3303232" />
+      <window_info anchor="bottom" id="Services" order="12" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Debug" order="13" />
+      <window_info anchor="right" id="Compiler Explorer" order="0" side_tool="true" />
+      <window_info anchor="right" id="Database" order="1" />
+      <window_info anchor="right" id="make" order="2" show_stripe_button="false" side_tool="true" />
+    </layout>
+    <recentWindows>
+      <value>CMake</value>
+      <value>Project</value>
+      <value>Run</value>
+      <value>Messages</value>
+    </recentWindows>
+  </component>
+  <component name="Trusted.Project.Settings" hasCheckedIfOldProject="true" trusted="YES" />
+  <component name="WindowStateProjectService">
+    <state x="740" y="216" width="426" height="475" key="FileChooserDialogImpl" timestamp="1620568690143">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state x="740" y="216" width="426" height="475" key="FileChooserDialogImpl/0.0.1920.1080@0.0.1920.1080" timestamp="1620568690143" />
+    <state width="1870" height="319" key="GridCell.Tab.0.bottom" timestamp="1620210535358">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state width="1870" height="319" key="GridCell.Tab.0.bottom/0.0.1920.1080@0.0.1920.1080" timestamp="1620210535358" />
+    <state width="1870" height="319" key="GridCell.Tab.0.center" timestamp="1620210535358">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state width="1870" height="319" key="GridCell.Tab.0.center/0.0.1920.1080@0.0.1920.1080" timestamp="1620210535358" />
+    <state width="1870" height="319" key="GridCell.Tab.0.left" timestamp="1620210535357">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state width="1870" height="319" key="GridCell.Tab.0.left/0.0.1920.1080@0.0.1920.1080" timestamp="1620210535357" />
+    <state width="1870" height="319" key="GridCell.Tab.0.right" timestamp="1620210535358">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state width="1870" height="319" key="GridCell.Tab.0.right/0.0.1920.1080@0.0.1920.1080" timestamp="1620210535358" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/CMakeLists.txt">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/main.cpp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="132">
+          <caret line="7" column="18" selection-start-line="7" selection-start-column="18" selection-end-line="7" selection-end-column="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/Downloads/Project40/Project40.sln">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+  </component>
+</project>

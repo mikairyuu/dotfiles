@@ -1,0 +1,126 @@
+<application>
+  <component name="ActionsLocalSummary">
+    <data>
+      <entry key="$Copy">
+        <ActionSummary times="1" last="1606277209198" />
+      </entry>
+      <entry key="$Undo">
+        <ActionSummary times="20" last="1606285035407" />
+      </entry>
+      <entry key="CollapseRegion">
+        <ActionSummary times="2" last="1606276440674" />
+      </entry>
+      <entry key="Debug">
+        <ActionSummary times="4" last="1606281373297" />
+      </entry>
+      <entry key="EditorBackSpace">
+        <ActionSummary times="250" last="1606286480010" />
+      </entry>
+      <entry key="EditorChooseLookupItem">
+        <ActionSummary times="13" last="1606286433345" />
+      </entry>
+      <entry key="EditorCopy">
+        <ActionSummary times="2" last="1606281335000" />
+      </entry>
+      <entry key="EditorCut">
+        <ActionSummary times="4" last="1606286306631" />
+      </entry>
+      <entry key="EditorDeleteToWordStart">
+        <ActionSummary times="7" last="1606285275801" />
+      </entry>
+      <entry key="EditorDown">
+        <ActionSummary times="4" last="1606279994614" />
+      </entry>
+      <entry key="EditorEnter">
+        <ActionSummary times="47" last="1606286477273" />
+      </entry>
+      <entry key="EditorLeft">
+        <ActionSummary times="34" last="1606286303315" />
+      </entry>
+      <entry key="EditorNextWord">
+        <ActionSummary times="7" last="1606278003532" />
+      </entry>
+      <entry key="EditorPaste">
+        <ActionSummary times="22" last="1606286311822" />
+      </entry>
+      <entry key="EditorPreviousWord">
+        <ActionSummary times="4" last="1606286301206" />
+      </entry>
+      <entry key="EditorRight">
+        <ActionSummary times="17" last="1606286302374" />
+      </entry>
+      <entry key="EditorSplitLine">
+        <ActionSummary times="1" last="1606281176706" />
+      </entry>
+      <entry key="EditorTab">
+        <ActionSummary times="1" last="1606280973850" />
+      </entry>
+      <entry key="EditorUp">
+        <ActionSummary times="5" last="1606286299276" />
+      </entry>
+      <entry key="ExpandRegion">
+        <ActionSummary times="11" last="1606276441475" />
+      </entry>
+      <entry key="FileChooser.NewFolder">
+        <ActionSummary times="1" last="1606277541877" />
+      </entry>
+      <entry key="Go.NewGoFile">
+        <ActionSummary times="1" last="1606276374560" />
+      </entry>
+      <entry key="GotoDeclaration">
+        <ActionSummary times="6" last="1606286343332" />
+      </entry>
+      <entry key="ReformatCode">
+        <ActionSummary times="2" last="1606285307657" />
+      </entry>
+      <entry key="Rerun">
+        <ActionSummary times="32" last="1606285096579" />
+      </entry>
+      <entry key="Run">
+        <ActionSummary times="34" last="1606286315675" />
+      </entry>
+      <entry key="RunClass">
+        <ActionSummary times="2" last="1606277302198" />
+      </entry>
+      <entry key="SaveAll">
+        <ActionSummary times="1" last="1606277489443" />
+      </entry>
+      <entry key="ShowIntentionActions">
+        <ActionSummary times="8" last="1606285161799" />
+      </entry>
+      <entry key="ShowSettings">
+        <ActionSummary times="4" last="1606277494088" />
+      </entry>
+      <entry key="Stop">
+        <ActionSummary times="10" last="1606286333959" />
+      </entry>
+      <entry key="com.goide.GoConfigureWidgetProvider$GoWidget$3">
+        <ActionSummary times="1" last="1606277228832" />
+      </entry>
+      <entry key="com.intellij.openapi.editor.impl.EditorMarkupModelImpl$StatusAction">
+        <ActionSummary times="1" last="1606277589670" />
+      </entry>
+      <entry key="com.intellij.openapi.fileEditor.impl.tabActions.CloseTab">
+        <ActionSummary times="4" last="1606286357223" />
+      </entry>
+      <entry key="com.intellij.openapi.wm.impl.ToolWindowHeader$HideAction">
+        <ActionSummary times="2" last="1606277593168" />
+      </entry>
+      <entry key="com.intellij.openapi.wm.impl.ToolWindowHeader$ShowOptionsAction">
+        <ActionSummary times="2" last="1606276604567" />
+      </entry>
+      <entry key="com.intellij.openapi.wm.impl.welcomeScreen.FlatWelcomeFrame$FlatWelcomeScreen$6">
+        <ActionSummary times="1" last="1606276340953" />
+      </entry>
+      <entry key="com.intellij.ui.CommonActionsPanel$AddButton">
+        <ActionSummary times="12" last="1606277555526" />
+      </entry>
+      <entry key="com.intellij.ui.CommonActionsPanel$RemoveButton">
+        <ActionSummary times="4" last="1606277555162" />
+      </entry>
+      <entry key="editRunConfigurations">
+        <ActionSummary times="2" last="1606276686446" />
+      </entry>
+    </data>
+  </component>
+</application>

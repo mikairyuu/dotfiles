@@ -1,0 +1,328 @@
+<project version="4">
+  <component name="BranchesTreeState">
+    <expand>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </expand>
+    <select />
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="-1">
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/myWebApp.csproj">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="138">
+              <caret line="6" column="10" lean-forward="true" selection-start-line="6" selection-start-column="10" selection-end-line="6" selection-end-column="10" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Pages/Index.cshtml">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="207">
+              <caret line="9" column="6" selection-start-line="9" selection-start-column="6" selection-end-line="9" selection-end-column="6" />
+              <folding>
+                <marker date="1621999431370" expanded="true" signature="24:73" ph="@..." />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Pages/Index.cshtml.cs">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="92">
+              <caret line="10" column="17" selection-start-line="10" selection-start-column="17" selection-end-line="10" selection-end-column="17" />
+              <folding>
+                <marker date="1621994187683" expanded="true" signature="233:498" ph="{...}" />
+                <marker date="1621994187683" expanded="true" signature="275:496" ph="{...}" />
+                <marker date="1621994187683" expanded="true" signature="390:440" ph="{...}" />
+                <marker date="1621994187683" expanded="true" signature="469:490" ph="{...}" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Pages/Shared/_Layout.cshtml">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="552">
+              <caret line="24" column="88" selection-start-line="24" selection-start-column="88" selection-end-line="24" selection-end-column="88" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Pages/Profile.cshtml">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="138">
+              <caret line="6" selection-start-line="6" selection-end-line="6" />
+              <folding>
+                <marker date="1621999899594" expanded="true" signature="26:65" ph="@..." />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="IgnoredFileRootStore">
+    <option name="generatedRoots">
+      <set>
+        <option value="$PROJECT_DIR$/.idea/.idea.gowebproject.github.io.dir/.idea" />
+      </set>
+    </option>
+  </component>
+  <component name="ProjectView">
+    <navigator currentView="FileSystemExplorer" proportions="0.9" version="1" />
+    <panes>
+      <pane id="FileSystemExplorer">
+        <subPane>
+          <expand>
+            <path>
+              <item name="Project" type="161ac34:FileSystemExplorerRootNode" />
+              <item name="gowebproject.github.io" type="34e6ba20:FileSystemExplorerNode" />
+            </path>
+          </expand>
+          <select>
+            <path>
+              <item name="Project" type="161ac34:FileSystemExplorerRootNode" />
+              <item name="gowebproject.github.io" type="34e6ba20:FileSystemExplorerNode" />
+            </path>
+          </select>
+        </subPane>
+      </pane>
+      <pane id="AssemblyExplorer" />
+    </panes>
+  </component>
+  <component name="TerminalArrangementManager">
+    <option name="myTabStates">
+      <TerminalTabState tabName="Local" currentWorkingDirectory="$PROJECT_DIR$" commandHistoryFileName="gowebproject.github.io-history" />
+    </option>
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="6700000" />
+  </component>
+  <component name="TodoView">
+    <todo-panel id="selected-file">
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+    <todo-panel id="all">
+      <are-packages-shown value="true" />
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+  </component>
+  <component name="ToolWindowManager">
+    <layout>
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.27353555" />
+      <window_info id="Structure" order="1" side_tool="true" />
+      <window_info id="Favorites" order="2" side_tool="true" />
+      <window_info id="Commit" order="3" weight="0.14483298" />
+      <window_info id="Pull Requests" order="4" />
+      <window_info anchor="bottom" id="Version Control" order="0" weight="0.14211026" />
+      <window_info anchor="bottom" id="Event Log" order="1" side_tool="true" />
+      <window_info anchor="bottom" id="Find" order="2" />
+      <window_info anchor="bottom" id="Run" order="3" />
+      <window_info anchor="bottom" id="TODO" order="4" />
+      <window_info anchor="bottom" id="TypeScript" order="5" />
+      <window_info anchor="bottom" id="Build" order="6" weight="0.3303232" />
+      <window_info anchor="bottom" id="Debug" order="7" weight="0.4" />
+      <window_info anchor="bottom" id="Flow" order="8" />
+      <window_info anchor="bottom" id="Internal Method Tracing" order="9" />
+      <window_info anchor="bottom" id="Unit Tests" order="10" />
+      <window_info anchor="bottom" id="dotTrace Profiler" order="11" />
+      <window_info anchor="bottom" id="Inspection" order="12" weight="0.4" />
+      <window_info anchor="bottom" id="File Transfer" order="13" />
+      <window_info anchor="bottom" id="Terminal" order="14" visible="true" weight="0.31131178" />
+      <window_info anchor="bottom" id="NuGet" order="15" weight="0.3303232" />
+      <window_info anchor="bottom" id="Dynamic Program Analysis" order="16" />
+      <window_info anchor="bottom" id="Services" order="17" show_stripe_button="false" />
+      <window_info anchor="right" id="Errors In Solution" order="0" />
+      <window_info anchor="right" id="IL Viewer" order="1" />
+      <window_info anchor="right" id="Unit Tests Coverage" order="2" />
+    </layout>
+    <recentWindows>
+      <value>Project</value>
+      <value>Terminal</value>
+      <value>Build</value>
+      <value>Commit</value>
+      <value>Version Control</value>
+      <value>NuGet</value>
+    </recentWindows>
+  </component>
+  <component name="Trusted.Project.Settings" hasCheckedIfOldProject="true" trusted="YES" />
+  <component name="WindowStateProjectService">
+    <state x="554" y="142" width="802" height="703" key="#Plugins" timestamp="1621995479243">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state x="554" y="142" width="802" height="703" key="#Plugins/0.0.1920.1080@0.0.1920.1080" timestamp="1621995479243" />
+    <state x="535" y="208" width="1228" height="610" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1622000054792">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state x="535" y="208" width="1228" height="610" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1920.1080@0.0.1920.1080" timestamp="1622000054792" />
+    <state x="362" y="5" width="1184" height="937" key="CommitChangelistDialog2" timestamp="1621997206587">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state x="362" y="5" width="1184" height="937" key="CommitChangelistDialog2/0.0.1920.1080@0.0.1920.1080" timestamp="1621997206587" />
+    <state x="961" y="-18" width="958" height="1073" key="DiffContextDialog" timestamp="1621997562711">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state x="961" y="-18" width="958" height="1073" key="DiffContextDialog/0.0.1920.1080@0.0.1920.1080" timestamp="1621997562711" />
+    <state x="576" y="239" width="755" height="470" key="MultipleFileMergeDialog" timestamp="1621997195492">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state x="576" y="239" width="755" height="470" key="MultipleFileMergeDialog/0.0.1920.1080@0.0.1920.1080" timestamp="1621997195492" />
+    <state x="551" y="173" width="802" height="521" key="Rider.ProjectTemplateDialog.Size" timestamp="1621999959669">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state x="551" y="173" width="802" height="521" key="Rider.ProjectTemplateDialog.Size/0.0.1920.1080@0.0.1920.1080" timestamp="1621999959669" />
+    <state x="605" y="180" width="700" height="628" key="RollbackChangesDialog" timestamp="1621999702323">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state x="605" y="180" width="700" height="628" key="RollbackChangesDialog/0.0.1920.1080@0.0.1920.1080" timestamp="1621999702323" />
+    <state x="477" y="113" key="SettingsEditor" timestamp="1621995170063">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state x="477" y="113" key="SettingsEditor/0.0.1920.1080@0.0.1920.1080" timestamp="1621995170063" />
+    <state x="545" y="54" width="802" height="519" key="Vcs.Push.Dialog.v2" timestamp="1621997606444">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state x="545" y="54" width="802" height="519" key="Vcs.Push.Dialog.v2/0.0.1920.1080@0.0.1920.1080" timestamp="1621997606444" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/index.html" />
+    <entry file="file://$PROJECT_DIR$/Pages/_ViewStart.cshtml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <folding>
+            <marker date="1621994187683" expanded="true" signature="0:28" ph="@..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Pages/_ViewImports.cshtml">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/obj/myWebApp.csproj.nuget.dgspec.json">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/obj/myWebApp.csproj.nuget.g.props">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/obj/myWebApp.csproj.nuget.g.targets">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/wwwroot/css/site.css">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/wwwroot/js/site.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <folding>
+            <element signature="n#!!doc" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/packages.config">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="23">
+          <caret line="1" column="10" selection-start-line="1" selection-start-column="10" selection-end-line="1" selection-end-column="10" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/appsettings.Development.json">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/appsettings.json">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/.github/workflows/master_gowebresource.yml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="575">
+          <caret line="25" selection-start-line="25" selection-end-line="25" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/obj/project.assets.json">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Pages/Error.cshtml" />
+    <entry file="file://$PROJECT_DIR$/Pages/Profile.cshtml.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="299">
+          <caret line="16" column="29" lean-forward="true" selection-start-line="16" selection-start-column="29" selection-end-line="16" selection-end-column="29" />
+          <folding>
+            <marker date="1621994187683" expanded="false" signature="6:207" ph="..." />
+            <marker date="1621994187683" expanded="true" signature="233:505" ph="{...}" />
+            <marker date="1621994187683" expanded="true" signature="277:503" ph="{...}" />
+            <marker date="1621994187683" expanded="true" signature="398:448" ph="{...}" />
+            <marker date="1621994187683" expanded="true" signature="477:497" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Properties/launchSettings.json">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/myWebApp.csproj">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="138">
+          <caret line="6" column="10" lean-forward="true" selection-start-line="6" selection-start-column="10" selection-end-line="6" selection-end-column="10" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Pages/Index.cshtml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="207">
+          <caret line="9" column="6" lean-forward="true" selection-start-line="9" selection-start-column="6" selection-end-line="9" selection-end-column="6" />
+          <folding>
+            <marker date="1621999431370" expanded="true" signature="24:73" ph="@..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Pages/Index.cshtml.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="92">
+          <caret line="10" column="17" selection-start-line="10" selection-start-column="17" selection-end-line="10" selection-end-column="17" />
+          <folding>
+            <marker date="1621994187683" expanded="true" signature="233:498" ph="{...}" />
+            <marker date="1621994187683" expanded="true" signature="275:496" ph="{...}" />
+            <marker date="1621994187683" expanded="true" signature="390:440" ph="{...}" />
+            <marker date="1621994187683" expanded="true" signature="469:490" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Pages/Shared/_Layout.cshtml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="552">
+          <caret line="24" column="88" selection-start-line="24" selection-start-column="88" selection-end-line="24" selection-end-column="88" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Pages/Profile.cshtml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="138">
+          <caret line="6" lean-forward="true" selection-start-line="6" selection-end-line="6" />
+          <folding>
+            <marker date="1621999899594" expanded="true" signature="26:65" ph="@..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>

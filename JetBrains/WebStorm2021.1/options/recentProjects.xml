@@ -1,0 +1,33 @@
+<application>
+  <component name="RecentProjectsManager">
+    <option name="additionalInfo">
+      <map>
+        <entry key="$USER_HOME$/WebstormProjects/gowebproject.github.io">
+          <value>
+            <RecentProjectMetaInfo frameTitle="gowebproject.github.io" projectWorkspaceId="1uOcmA4a6phRuNxNxmB76fsMzCa">
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="build" value="WS-211.7142.46" />
+              <option name="buildTimestamp" value="1619777846142" />
+              <frame x="1" y="-18" width="1918" height="1073" />
+              <option name="productionCode" value="WS" />
+              <option name="projectOpenTimestamp" value="1621932760109" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/WebstormProjects/xsonicru.github.io">
+          <value>
+            <RecentProjectMetaInfo frameTitle="xsonicru.github.io – game.js" opened="true" projectWorkspaceId="1rEXHH9KNcDJiy3S7doPOgnw9Rh">
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="build" value="WS-211.7442.26" />
+              <option name="buildTimestamp" value="1621886308593" />
+              <frame x="1" y="-18" width="1918" height="1073" />
+              <option name="productionCode" value="WS" />
+              <option name="projectOpenTimestamp" value="1624540258699" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="lastProjectLocation" value="$USER_HOME$/WebstormProjects" />
+  </component>
+</application>

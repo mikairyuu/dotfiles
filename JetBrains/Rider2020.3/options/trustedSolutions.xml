@@ -1,0 +1,10 @@
+<application>
+  <component name="TrustedSolutionStore">
+    <option name="trustedLocations">
+      <set>
+        <option value="$USER_HOME$/RiderProjects/Solution1/.idea/.idea.Solution1" />
+        <option value="$USER_HOME$/RiderProjects/chessthing/.idea/.idea.chessthing" />
+      </set>
+    </option>
+  </component>
+</application>

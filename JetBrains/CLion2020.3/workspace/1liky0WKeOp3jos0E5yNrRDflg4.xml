@@ -1,0 +1,480 @@
+<project version="4">
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="-1">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/main.cpp">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="1134">
+              <caret line="54" column="25" selection-start-line="54" selection-start-column="25" selection-end-line="54" selection-end-column="25" />
+              <folding>
+                <element signature="e#0#19#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/com_exec.cpp">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="292">
+              <caret line="22" selection-start-line="22" selection-end-line="22" />
+              <folding>
+                <element signature="e#40#57#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Encryption/AES.cpp">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="871">
+              <caret line="237" column="5" selection-start-line="237" selection-start-column="5" selection-end-line="237" selection-end-column="5" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Encryption/RC5Simple.cpp">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="3486">
+              <caret line="166" column="20" selection-start-line="166" selection-start-column="20" selection-end-line="166" selection-end-column="20" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/cmake-build-debug/cfg">
+          <provider selected="true" editor-type-id="text-editor">
+            <state>
+              <caret column="65" selection-start-column="65" selection-end-column="65" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/com_exec.h">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="399">
+              <caret line="19" column="11" selection-start-line="19" selection-start-column="11" selection-end-line="19" selection-end-column="11" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/Encryption/AES.h">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="634">
+              <caret line="52" column="23" selection-start-line="52" selection-start-column="23" selection-end-line="52" selection-end-column="23" />
+              <folding>
+                <element signature="e#1100#1120#0" expanded="true" />
+                <element signature="e#1173#1203#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>res</find>
+      <find>file</find>
+      <find>key</find>
+    </findStrings>
+  </component>
+  <component name="IdeDocumentHistory">
+    <changedPaths>
+      <option value="$PROJECT_DIR$/cmake-build-debug/cmake_install.cmake" />
+      <option value="$PROJECT_DIR$/AES.h" />
+      <option value="$PROJECT_DIR$/Encryption/md5.cpp" />
+      <option value="$PROJECT_DIR$/Encryption/md5_loc.h" />
+      <option value="$PROJECT_DIR$/cmake-build-debug/com_exec.cpp" />
+      <option value="$PROJECT_DIR$/cmake-build-debug/com_exec.h" />
+      <option value="$PROJECT_DIR$/CMakeLists.txt" />
+      <option value="$PROJECT_DIR$/Encryption/RC5Simple.h" />
+      <option value="$PROJECT_DIR$/com_exec.h" />
+      <option value="$PROJECT_DIR$/cmake-build-debug/cfg" />
+      <option value="$PROJECT_DIR$/main.cpp" />
+      <option value="$PROJECT_DIR$/com_exec.cpp" />
+      <option value="$PROJECT_DIR$/Encryption/AES.h" />
+    </changedPaths>
+  </component>
+  <component name="IgnoredFileRootStore">
+    <option name="generatedRoots">
+      <set>
+        <option value="$PROJECT_DIR$/.idea" />
+      </set>
+    </option>
+  </component>
+  <component name="ProjectView">
+    <navigator currentView="ProjectPane" proportions="" version="1" />
+    <panes>
+      <pane id="Scope" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="password_manager" type="b2602c69:ProjectViewProjectNode" />
+              <item name="password_manager" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="password_manager" type="b2602c69:ProjectViewProjectNode" />
+              <item name="password_manager" type="462c0819:PsiDirectoryNode" />
+              <item name="Encryption" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+    </panes>
+  </component>
+  <component name="TodoView">
+    <todo-panel id="selected-file">
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+    <todo-panel id="all">
+      <are-packages-shown value="true" />
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+  </component>
+  <component name="ToolWindowManager">
+    <editor active="true" />
+    <layout>
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.12913553" />
+      <window_info id="Structure" order="1" side_tool="true" />
+      <window_info id="Favorites" order="2" side_tool="true" />
+      <window_info id="Commit" order="3" />
+      <window_info id="Pull Requests" order="4" />
+      <window_info anchor="bottom" id="Version Control" order="0" />
+      <window_info anchor="bottom" id="Event Log" order="1" side_tool="true" weight="0.32917964" />
+      <window_info anchor="bottom" id="Find" order="2" />
+      <window_info anchor="bottom" id="Run" order="3" weight="0.41580042" />
+      <window_info anchor="bottom" id="TODO" order="4" weight="0.32917964" />
+      <window_info anchor="bottom" id="Problems View" order="5" weight="0.3281412" />
+      <window_info anchor="bottom" id="Debug" order="6" weight="0.33367983" />
+      <window_info anchor="bottom" id="Inspection" order="7" weight="0.4" />
+      <window_info anchor="bottom" id="clangd" order="8" />
+      <window_info anchor="bottom" id="Internal Method Tracing" order="9" />
+      <window_info anchor="bottom" id="Messages" order="10" weight="0.32744282" />
+      <window_info anchor="bottom" id="CMake" order="11" weight="0.32917964" />
+      <window_info anchor="bottom" id="File Transfer" order="12" />
+      <window_info anchor="bottom" id="Database Changes" order="13" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Flow" order="14" />
+      <window_info anchor="bottom" id="TypeScript" order="15" />
+      <window_info anchor="bottom" id="Services" order="16" show_stripe_button="false" />
+      <window_info anchor="right" id="Database" order="0" />
+      <window_info anchor="right" id="Coverage" order="1" side_tool="true" />
+    </layout>
+    <layout-to-restore>
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.058697972" />
+      <window_info id="Structure" order="1" side_tool="true" />
+      <window_info id="Favorites" order="2" side_tool="true" />
+      <window_info id="Commit" order="3" />
+      <window_info id="Pull Requests" order="4" />
+      <window_info anchor="bottom" id="Version Control" order="0" />
+      <window_info anchor="bottom" id="Event Log" order="1" side_tool="true" weight="0.32917964" />
+      <window_info anchor="bottom" id="Find" order="2" />
+      <window_info anchor="bottom" id="Run" order="3" weight="0.32016632" />
+      <window_info anchor="bottom" id="TODO" order="4" weight="0.32917964" />
+      <window_info anchor="bottom" id="Problems View" order="5" weight="0.3281412" />
+      <window_info anchor="bottom" id="Debug" order="6" visible="true" weight="0.33367983" />
+      <window_info anchor="bottom" id="Inspection" order="7" weight="0.4" />
+      <window_info anchor="bottom" id="clangd" order="8" />
+      <window_info anchor="bottom" id="Internal Method Tracing" order="9" />
+      <window_info anchor="bottom" id="Messages" order="10" weight="0.32744282" />
+      <window_info anchor="bottom" id="CMake" order="11" weight="0.32917964" />
+      <window_info anchor="bottom" id="File Transfer" order="12" />
+      <window_info anchor="bottom" id="Database Changes" order="13" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Flow" order="14" />
+      <window_info anchor="bottom" id="TypeScript" order="15" />
+      <window_info anchor="bottom" id="Services" order="16" show_stripe_button="false" />
+      <window_info anchor="right" id="Database" order="0" />
+      <window_info anchor="right" id="Coverage" order="1" side_tool="true" />
+    </layout-to-restore>
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="389" y="-44" width="1084" height="684" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1610050271295">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state x="389" y="-44" width="1084" height="684" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1920.1080@0.0.1920.1080" timestamp="1610050271295" />
+    <state x="650" y="43" width="586" height="422" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1608945676644">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state x="650" y="43" width="586" height="422" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1920.1080@0.0.1920.1080" timestamp="1608945676644" />
+    <state width="427" height="73" key="DebuggerActiveHint" timestamp="1608341414825">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state width="427" height="73" key="DebuggerActiveHint/0.0.1920.1080@0.0.1920.1080" timestamp="1608341414825" />
+    <state x="736" y="136" width="426" height="475" key="FileChooserDialogImpl" timestamp="1608945983167">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state x="736" y="136" width="426" height="475" key="FileChooserDialogImpl/0.0.1920.1080@0.0.1920.1080" timestamp="1608945983167" />
+    <state width="1874" height="293" key="GridCell.Tab.0.bottom" timestamp="1610056344095">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state width="1874" height="293" key="GridCell.Tab.0.bottom/0.0.1920.1080@0.0.1920.1080" timestamp="1610056344095" />
+    <state width="1874" height="293" key="GridCell.Tab.0.center" timestamp="1610056344094">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state width="1874" height="293" key="GridCell.Tab.0.center/0.0.1920.1080@0.0.1920.1080" timestamp="1610056344094" />
+    <state width="1874" height="293" key="GridCell.Tab.0.left" timestamp="1610056344094">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state width="1874" height="293" key="GridCell.Tab.0.left/0.0.1920.1080@0.0.1920.1080" timestamp="1610056344094" />
+    <state width="1874" height="293" key="GridCell.Tab.0.right" timestamp="1610056344095">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state width="1874" height="293" key="GridCell.Tab.0.right/0.0.1920.1080@0.0.1920.1080" timestamp="1610056344095" />
+    <state width="1874" height="293" key="GridCell.Tab.1.bottom" timestamp="1610056344096">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state width="1874" height="293" key="GridCell.Tab.1.bottom/0.0.1920.1080@0.0.1920.1080" timestamp="1610056344096" />
+    <state width="1874" height="293" key="GridCell.Tab.1.center" timestamp="1610056344095">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state width="1874" height="293" key="GridCell.Tab.1.center/0.0.1920.1080@0.0.1920.1080" timestamp="1610056344095" />
+    <state width="1874" height="293" key="GridCell.Tab.1.left" timestamp="1610056344095">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state width="1874" height="293" key="GridCell.Tab.1.left/0.0.1920.1080@0.0.1920.1080" timestamp="1610056344095" />
+    <state width="1874" height="293" key="GridCell.Tab.1.right" timestamp="1610056344096">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state width="1874" height="293" key="GridCell.Tab.1.right/0.0.1920.1080@0.0.1920.1080" timestamp="1610056344096" />
+    <state x="599" y="306" width="712" height="376" key="Registry" timestamp="1608946478955">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state x="599" y="306" width="712" height="376" key="Registry/0.0.1920.1080@0.0.1920.1080" timestamp="1608946478955" />
+    <state x="462" y="113" key="SettingsEditor" timestamp="1609246517647">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state x="462" y="113" key="SettingsEditor/0.0.1920.1080@0.0.1920.1080" timestamp="1609246517647" />
+    <state x="623" y="238" key="run.anything.popup" timestamp="1608452802543">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state x="623" y="238" key="run.anything.popup/0.0.1920.1080@0.0.1920.1080" timestamp="1608452802543" />
+    <state x="623" y="219" width="672" height="678" key="search.everywhere.popup" timestamp="1608946414413">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state x="623" y="219" width="672" height="678" key="search.everywhere.popup/0.0.1920.1080@0.0.1920.1080" timestamp="1608946414413" />
+  </component>
+  <component name="debuggerHistoryManager">
+    <expressions id="watch">
+      <expression>
+        <expression-string>com_exec::cur_db[i+2]</expression-string>
+        <language-id>ObjectiveC</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>com_exec::cur_db[i+1]</expression-string>
+        <language-id>ObjectiveC</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>com_exec::cur_db[i]</expression-string>
+        <language-id>ObjectiveC</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>com_exec::cur_db.size()</expression-string>
+        <language-id>ObjectiveC</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>com_exec::cur_db[0]</expression-string>
+        <language-id>ObjectiveC</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>cur_db[0]</expression-string>
+        <language-id>ObjectiveC</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>cur_db[2]</expression-string>
+        <language-id>ObjectiveC</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>cur_db[1]</expression-string>
+        <language-id>ObjectiveC</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>cur_db.begin()</expression-string>
+        <language-id>ObjectiveC</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>cur_db</expression-string>
+        <language-id>ObjectiveC</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+    </expressions>
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file:///usr/include/stdlib.h">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="198">
+          <caret line="538" column="13" selection-start-line="538" selection-start-column="13" selection-end-line="538" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/AES.h" />
+    <entry file="file://$PROJECT_DIR$/AES.cpp" />
+    <entry file="file:///usr/include/c++/10.2.0/iosfwd">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="245">
+          <caret line="164" column="36" selection-start-line="164" selection-start-column="36" selection-end-line="164" selection-end-column="36" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file:///usr/include/c++/10.2.0/bits/basic_string.h">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="176">
+          <caret line="524" selection-start-line="524" selection-end-line="524" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Encryption/md5.h">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="299">
+          <caret line="82" column="17" selection-start-line="82" selection-start-column="17" selection-end-line="82" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file:///usr/include/stdio.h">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="304">
+          <caret line="390" column="11" selection-start-line="390" selection-start-column="11" selection-end-line="390" selection-end-column="11" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/cmake-build-debug/com_exec.h" />
+    <entry file="file://$PROJECT_DIR$/cmake-build-debug/com_exec.cpp" />
+    <entry file="file://$PROJECT_DIR$/cmake-build-debug/cmake_install.cmake">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="809">
+          <caret line="48" column="41" selection-start-line="48" selection-start-column="41" selection-end-line="48" selection-end-column="41" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Encryption/md5_loc.h">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="198">
+          <caret line="24" column="6" selection-start-line="24" selection-start-column="6" selection-end-line="24" selection-end-column="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file:///usr/include/string.h">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="311">
+          <caret line="313" column="13" selection-start-line="313" selection-start-column="13" selection-end-line="313" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file:///usr/include/c++/10.2.0/bits/stl_vector.h">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="183">
+          <caret line="1046" selection-start-line="1046" selection-end-line="1046" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Encryption/md5.cpp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="204">
+          <caret line="216" column="16" selection-start-line="216" selection-start-column="16" selection-end-line="216" selection-end-column="16" />
+          <folding>
+            <element signature="e#0#18#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/cmake-build-debug/password_manager.cbp">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/cmake-build-debug/pwdb.enc" />
+    <entry file="file://$PROJECT_DIR$/Encryption/RC5Simple.h">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="143">
+          <caret line="74" column="8" selection-start-line="74" selection-start-column="8" selection-end-line="74" selection-end-column="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pwdb" />
+    <entry file="file://$PROJECT_DIR$/cmake-build-debug/pwdb">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="18">
+          <caret line="1" column="78" lean-forward="true" selection-start-line="1" selection-start-column="78" selection-end-line="1" selection-end-column="78" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/CMakeLists.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="90">
+          <caret line="5" column="22" lean-forward="true" selection-start-line="5" selection-start-column="22" selection-end-line="5" selection-end-column="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/main.cpp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1134">
+          <caret line="54" column="25" selection-start-line="54" selection-start-column="25" selection-end-line="54" selection-end-column="25" />
+          <folding>
+            <element signature="e#0#19#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Encryption/RC5Simple.cpp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="3486">
+          <caret line="166" column="20" selection-start-line="166" selection-start-column="20" selection-end-line="166" selection-end-column="20" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/cmake-build-debug/cfg">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="65" selection-start-column="65" selection-end-column="65" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/com_exec.h">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="399">
+          <caret line="19" column="11" selection-start-line="19" selection-start-column="11" selection-end-line="19" selection-end-column="11" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/com_exec.cpp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="292">
+          <caret line="22" lean-forward="true" selection-start-line="22" selection-end-line="22" />
+          <folding>
+            <element signature="e#40#57#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Encryption/AES.cpp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="871">
+          <caret line="237" column="5" selection-start-line="237" selection-start-column="5" selection-end-line="237" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Encryption/AES.h">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="634">
+          <caret line="52" column="23" selection-start-line="52" selection-start-column="23" selection-end-line="52" selection-end-column="23" />
+          <folding>
+            <element signature="e#1100#1120#0" expanded="true" />
+            <element signature="e#1173#1203#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>

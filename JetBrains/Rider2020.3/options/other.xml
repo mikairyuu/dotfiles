@@ -1,0 +1,63 @@
+<application>
+  <component name="NotRoamableUiSettings">
+    <option name="fontFace" value="MonoLisa" />
+  </component>
+  <component name="ProjectPluginTrackerManager">
+    <option name="trackers">
+      <map>
+        <entry key="1lgTWHjr8m3ZjLMIEnGHgqwXeF4">
+          <value>
+            <ProjectPluginTrackerState />
+          </value>
+        </entry>
+        <entry key="1pEnjhrJDQJQgyVASz7z4p214GB">
+          <value>
+            <ProjectPluginTrackerState />
+          </value>
+        </entry>
+        <entry key="1qmI0Bs2yxAhnrk2vIKd0SLmbrj">
+          <value>
+            <ProjectPluginTrackerState />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="Debug.Allow.Typing" value="true" />
+    <property name="ExpandBeforeRunStepsPanel" value="true" />
+    <property name="ExpandRunDashboardTypesPanel" value="false" />
+    <property name="KEYMAP" value="run&#10;End" />
+    <property name="MTUILite.version" value="4.0" />
+    <property name="Non.Modal.Commit.Single.Click2" value="true" />
+    <property name="Non.Modal.Commit4" value="true" />
+    <property name="NonModalCommitCustomization.IsApplied" value="true" />
+    <property name="RD.Init.Cfg.2" value="true" />
+    <property name="RD.Init.DialogShown.Ide" value="true" />
+    <property name="RD.Light.Edit.Disabled" value="true" />
+    <property name="RD.Switch.Laf" value="true" />
+    <property name="Rider.Pin.Item.Was.Executed" value="true" />
+    <property name="SettingsSearchHistory" value="shortcuts&#10;debugger&#10;sdk" />
+    <property name="Tutorials.1" value="true" />
+    <property name="Tutorials.In.Recent.Projects.Disabled" value="true" />
+    <property name="UITheme.relaunch" value="true" />
+    <property name="appcds.runOnSecondStart" value="RD-203.7717.10-b0cab50d8d5fbc850083a69f1f89a8c9d72887961b21fc54e80b3d78fba3cc04" />
+    <property name="com.intellij.find.SearchReplaceComponent[,0,0,0x0,invalid,layout=java.awt.BorderLayout,alignmentX=0.0,alignmentY=0.0,border=com.intellij.ui.border.CustomLineBorder@3511b3d0,flags=9,maximumSize=,minimumSize=,preferredSize=]" value="driver.cs&#10;driver" />
+    <property name="debugger.immediate.window.in.watches.proportion.key" value="0.9100228" />
+    <property name="debugger.smart.chooser.counter" value="2" />
+    <property name="evlsprt3.202" value="18" />
+    <property name="evlsprt3.203" value="13" />
+    <property name="file.chooser.recent.files" value="$USER_HOME$/RiderProjects/chessthing&#10;/home/gohan/RiderProjects" />
+    <property name="got.it.tooltip.reader.mode.got.it" value="1" />
+    <property name="ide.updates.previous.build.number" value="RD-203.7717.10" />
+    <property name="idea.background.frame" value="/tmp/ijBackgroundImage.svg,15,scale,center" />
+    <property name="ignoreUltimateEdition" value="true" />
+    <property name="last_open_solution_path" value="$USER_HOME$/RiderProjects/chessthing" />
+    <property name="last_opened_file_path" value="$USER_HOME$/RiderProjects/chessthing" />
+    <property name="last_selected_template" value="Console Application|.NET / .NET Core" />
+    <property name="last_selected_template_parameters" value="TargetFrameworkOverride=net5.0;Type=Empty;Language=C#;Framework=net5.0;" />
+    <property name="old.idea.background.frame" value="/tmp/ijBackgroundImage.svg,15,scale,center" />
+    <property name="tasks.pass.word.conversion.enforced" value="true" />
+    <property name="toolwindow.stripes.buttons.info.shown" value="true" />
+  </component>
+</application>

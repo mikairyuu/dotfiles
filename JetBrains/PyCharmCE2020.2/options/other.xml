@@ -1,0 +1,22 @@
+<application>
+  <component name="PropertiesComponent">
+    <property name="NonModalCommitCustomization.IsApplied" value="true" />
+    <property name="PyCharm.InitialConfiguration" value="true" />
+    <property name="PyCharm.InitialConfiguration.V2" value="true" />
+    <property name="PyCharm.InitialConfiguration.V3" value="true" />
+    <property name="PyCharm.InitialConfiguration.V4" value="true" />
+    <property name="PyCharm.InitialConfiguration.V5" value="true" />
+    <property name="PyCharm.InitialConfiguration.V6" value="true" />
+    <property name="PyCharm.InitialConfiguration.V7" value="true" />
+    <property name="appcds.runOnSecondStart" value="PC-202.7660.27-c731b298da873d533011cf4dac74e4ce3e3e55feab2ec696a6617f590b6427fa" />
+    <property name="ask.about.ctrl.y.shortcut.v2" value="true" />
+    <property name="experimentalFeature.terminal.shell.command.handling" value="false" />
+    <property name="file.gist.reindex.count" value="3380" />
+    <property name="fileTypeChangedCounter" value="1" />
+    <property name="ide.memory.adjusted" value="true" />
+    <property name="lastSeenTip" value="neue-Close_all_editor_tabs.html" />
+    <property name="lastTimeTipsWereShown" value="1607307750045" />
+    <property name="seenTips" value="neue-Close_all_editor_tabs.html" />
+    <property name="tasks.pass.word.conversion.enforced" value="true" />
+  </component>
+</application>

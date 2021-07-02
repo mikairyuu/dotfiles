@@ -1,0 +1,20 @@
+<application>
+  <component name="PropertiesComponent">
+    <property name="Debug.Allow.Typing" value="true" />
+    <property name="Non.Modal.Commit.Single.Click2" value="true" />
+    <property name="Non.Modal.Commit4" value="true" />
+    <property name="NonModalCommitCustomization.IsApplied" value="true" />
+    <property name="RD.Init.Cfg.2" value="true" />
+    <property name="RD.Init.DialogShown.Ide" value="true" />
+    <property name="RD.Light.Edit.Disabled" value="true" />
+    <property name="RD.Switch.Laf" value="true" />
+    <property name="Tutorials.1" value="true" />
+    <property name="UITheme.relaunch" value="true" />
+    <property name="appcds.runOnSecondStart" value="RD-202.7660.16-8e51dee56bd41a74c5b67b6bd85369983f4e4d66c51c61cc548a9720e72d3e41" />
+    <property name="ask.about.ctrl.y.shortcut.v2" value="true" />
+    <property name="evlsprt3.202" value="18" />
+    <property name="ignoreUltimateEdition" value="true" />
+    <property name="tasks.pass.word.conversion.enforced" value="true" />
+    <property name="toolwindow.stripes.buttons.info.shown" value="true" />
+  </component>
+</application>

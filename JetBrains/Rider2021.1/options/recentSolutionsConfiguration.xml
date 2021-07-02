@@ -1,0 +1,93 @@
+<application>
+  <component name="SolutionConfigurationStore">
+    <option name="configurations">
+      <map>
+        <entry key="$USER_HOME$/Documents/projects/schwarz/schwarz.sln">
+          <value>
+            <ConfigurationInfo>
+              <option name="activeConfiguration" value="Debug" />
+              <option name="activePlatform" value="Any CPU" />
+            </ConfigurationInfo>
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/RiderProjects/GoWebProj/GoWebProj.sln">
+          <value>
+            <ConfigurationInfo>
+              <option name="activeConfiguration" value="Debug" />
+              <option name="activePlatform" value="Any CPU" />
+            </ConfigurationInfo>
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/RiderProjects/GoWebProject/GoWebProject.sln">
+          <value>
+            <ConfigurationInfo>
+              <option name="activeConfiguration" value="Debug" />
+              <option name="activePlatform" value="Any CPU" />
+            </ConfigurationInfo>
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/RiderProjects/OpenTabletDriver/OpenTabletDriver.sln">
+          <value>
+            <ConfigurationInfo>
+              <option name="activeConfiguration" value="Debug" />
+              <option name="activePlatform" value="x64" />
+            </ConfigurationInfo>
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/RiderProjects/RazorClassLibrary/RazorClassLibrary.sln">
+          <value>
+            <ConfigurationInfo>
+              <option name="activeConfiguration" value="Debug" />
+              <option name="activePlatform" value="Any CPU" />
+            </ConfigurationInfo>
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/RiderProjects/Solution1/Solution1.sln">
+          <value>
+            <ConfigurationInfo>
+              <option name="activeConfiguration" value="Debug" />
+              <option name="activePlatform" value="Any CPU" />
+            </ConfigurationInfo>
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/RiderProjects/Solution2/Solution2.sln">
+          <value>
+            <ConfigurationInfo>
+              <option name="activeConfiguration" value="Debug" />
+              <option name="activePlatform" value="Any CPU" />
+            </ConfigurationInfo>
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/RiderProjects/WebApplication/WebApplication.sln">
+          <value>
+            <ConfigurationInfo>
+              <option name="activeConfiguration" value="Debug" />
+              <option name="activePlatform" value="Any CPU" />
+            </ConfigurationInfo>
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/RiderProjects/chessthing/chessthing.sln">
+          <value>
+            <ConfigurationInfo>
+              <option name="activeConfiguration" value="Debug" />
+              <option name="activePlatform" value="Any CPU" />
+            </ConfigurationInfo>
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/WebstormProjects/gowebproject.github.io">
+          <value>
+            <ConfigurationInfo />
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/WebstormProjects/gowebproject.github.io/WebApplication.sln">
+          <value>
+            <ConfigurationInfo>
+              <option name="activeConfiguration" value="Debug" />
+              <option name="activePlatform" value="Any CPU" />
+            </ConfigurationInfo>
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+</application>

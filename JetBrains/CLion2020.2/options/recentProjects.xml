@@ -1,0 +1,51 @@
+<application>
+  <component name="RecentProjectsManager">
+    <option name="additionalInfo">
+      <map>
+        <entry key="$USER_HOME$/Documents/CLionProjects">
+          <value>
+            <RecentProjectMetaInfo projectWorkspaceId="1ktUj4NVatuZ3CPg8WWIJbYqra7">
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="build" value="CL-202.7660.37" />
+              <option name="buildTimestamp" value="1602083634877" />
+              <option name="productionCode" value="CL" />
+              <option name="projectOpenTimestamp" value="1606519513040" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/Documents/CLionProjects/untitled7">
+          <value>
+            <RecentProjectMetaInfo projectWorkspaceId="1jUU79NGTBeDeE2yNB3BPbcm0Kj">
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="build" value="CL-202.7660.37" />
+              <option name="buildTimestamp" value="1602083607732" />
+              <frame x="1" y="-18" width="1918" height="1073" />
+              <option name="productionCode" value="CL" />
+              <option name="projectOpenTimestamp" value="1606953631952" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/CLionProjects/untitled">
+          <value>
+            <RecentProjectMetaInfo opened="true" projectWorkspaceId="1l7gf844G379HnUMmiktvYnshZk">
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="build" value="CL-202.7660.37" />
+              <option name="buildTimestamp" value="1602083589404" />
+              <frame x="1" y="-18" width="1918" height="1073" />
+              <option name="productionCode" value="CL" />
+              <option name="projectOpenTimestamp" value="1607140339895" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="lastProjectLocation" value="$USER_HOME$/CLionProjects" />
+    <option name="recentPaths">
+      <list>
+        <option value="$USER_HOME$/CLionProjects/untitled" />
+        <option value="$USER_HOME$/Documents/CLionProjects/untitled7" />
+        <option value="$USER_HOME$/Documents/CLionProjects" />
+      </list>
+    </option>
+  </component>
+</application>

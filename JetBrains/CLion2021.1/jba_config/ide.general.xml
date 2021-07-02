@@ -1,0 +1,11 @@
+<application>
+  <component name="GeneralSettings">
+    <option name="showTipsOnStartup" value="false" />
+  </component>
+  <component name="Registry">
+    <entry key="cidr.debugger.timeout" value="90000" />
+    <entry key="cidr.debugger.timeout.evaluate" value="90000" />
+    <entry key="ide.images.show.chessboard" value="true" />
+    <entry key="ide.balloon.shadow.size" value="0" />
+  </component>
+</application>

@@ -1,0 +1,17 @@
+<application>
+  <component name="TrustedSolutionStore">
+    <option name="trustedLocations">
+      <set>
+        <option value="$USER_HOME$/RiderProjects/GoWebProj/.idea/.idea.GoWebProj" />
+        <option value="$USER_HOME$/RiderProjects/GoWebProject/.idea/.idea.GoWebProject" />
+        <option value="$USER_HOME$/RiderProjects/RazorClassLibrary/.idea/.idea.RazorClassLibrary" />
+        <option value="$USER_HOME$/RiderProjects/Solution1/.idea/.idea.Solution1" />
+        <option value="$USER_HOME$/RiderProjects/Solution2/.idea/.idea.Solution2" />
+        <option value="$USER_HOME$/RiderProjects/WebApplication/.idea/.idea.WebApplication" />
+        <option value="$USER_HOME$/RiderProjects/chessthing/.idea/.idea.chessthing" />
+        <option value="$USER_HOME$/WebstormProjects/gowebproject.github.io/.idea/.idea.WebApplication" />
+        <option value="$USER_HOME$/WebstormProjects/gowebproject.github.io/.idea/.idea.gowebproject.github.io.dir" />
+      </set>
+    </option>
+  </component>
+</application>

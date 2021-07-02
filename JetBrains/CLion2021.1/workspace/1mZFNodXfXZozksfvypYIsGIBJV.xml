@@ -1,0 +1,236 @@
+<project version="4">
+  <component name="FavoritesManager">
+    <favorites_list name="upps" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="-1">
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/main.cpp">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="375">
+              <caret line="212" selection-start-line="212" selection-end-line="212" />
+              <folding>
+                <element signature="e#36#55#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>#ContourApproximationModes</find>
+    </findStrings>
+  </component>
+  <component name="IdeDocumentHistory">
+    <changedPaths>
+      <option value="$PROJECT_DIR$/CMakeLists.txt" />
+      <option value="$USER_HOME$/Downloads/diplomy.txt" />
+      <option value="$PROJECT_DIR$/main.cpp" />
+    </changedPaths>
+  </component>
+  <component name="IgnoredFileRootStore">
+    <option name="generatedRoots">
+      <set>
+        <option value="$PROJECT_DIR$/.idea" />
+      </set>
+    </option>
+  </component>
+  <component name="ProjectView">
+    <navigator currentView="ProjectPane" proportions="" version="1" />
+    <panes>
+      <pane id="ProjectPane" />
+      <pane id="Scope" />
+    </panes>
+  </component>
+  <component name="ToolWindowManager">
+    <layout>
+      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.4992272" visible="true" weight="0.08591249" />
+      <window_info id="Structure" order="1" side_tool="true" />
+      <window_info id="Favorites" order="2" sideWeight="0.5007728" side_tool="true" weight="0.1398079" />
+      <window_info id="Commit" order="3" />
+      <window_info id="Pull Requests" order="4" />
+      <window_info anchor="bottom" id="Version Control" order="0" />
+      <window_info anchor="bottom" id="Event Log" order="1" side_tool="true" />
+      <window_info anchor="bottom" id="Find" order="2" weight="0.32917964" />
+      <window_info anchor="bottom" id="Run" order="3" visible="true" weight="0.18380062" />
+      <window_info anchor="bottom" id="TODO" order="4" />
+      <window_info anchor="bottom" id="Problems View" order="5" weight="0.32917964" />
+      <window_info anchor="bottom" id="Debug" order="6" weight="0.27725857" />
+      <window_info anchor="bottom" id="Inspection" order="7" weight="0.4" />
+      <window_info anchor="bottom" id="clangd" order="8" />
+      <window_info anchor="bottom" id="Internal Method Tracing" order="9" />
+      <window_info anchor="bottom" id="Messages" order="10" weight="0.32502595" />
+      <window_info anchor="bottom" id="CMake" order="11" weight="0.32917964" />
+      <window_info anchor="bottom" id="File Transfer" order="12" />
+      <window_info anchor="bottom" id="Database Changes" order="13" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Flow" order="14" />
+      <window_info anchor="bottom" id="TypeScript" order="15" />
+      <window_info anchor="bottom" id="Services" order="16" show_stripe_button="false" />
+      <window_info anchor="right" id="Database" order="0" />
+    </layout>
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="431" y="36" width="1092" height="701" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1610699714997">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state x="431" y="36" width="1092" height="701" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1920.1080@0.0.1920.1080" timestamp="1610699714997" />
+    <state width="409" height="73" key="DebuggerActiveHint" timestamp="1609992511700">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state width="409" height="73" key="DebuggerActiveHint/0.0.1920.1080@0.0.1920.1080" timestamp="1609992511700" />
+    <state x="742" y="256" width="426" height="475" key="FileChooserDialogImpl" timestamp="1610168862388">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state x="742" y="256" width="426" height="475" key="FileChooserDialogImpl/0.0.1920.1080@0.0.1920.1080" timestamp="1610168862388" />
+    <state width="1874" height="287" key="GridCell.Tab.0.bottom" timestamp="1610700402849">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state width="1874" height="287" key="GridCell.Tab.0.bottom/0.0.1920.1080@0.0.1920.1080" timestamp="1610700402849" />
+    <state width="1874" height="287" key="GridCell.Tab.0.center" timestamp="1610700402848">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state width="1874" height="287" key="GridCell.Tab.0.center/0.0.1920.1080@0.0.1920.1080" timestamp="1610700402848" />
+    <state width="1874" height="287" key="GridCell.Tab.0.left" timestamp="1610700402848">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state width="1874" height="287" key="GridCell.Tab.0.left/0.0.1920.1080@0.0.1920.1080" timestamp="1610700402848" />
+    <state width="1874" height="287" key="GridCell.Tab.0.right" timestamp="1610700402849">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state width="1874" height="287" key="GridCell.Tab.0.right/0.0.1920.1080@0.0.1920.1080" timestamp="1610700402849" />
+    <state width="1874" height="239" key="GridCell.Tab.1.bottom" timestamp="1610699673343">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state width="1874" height="239" key="GridCell.Tab.1.bottom/0.0.1920.1080@0.0.1920.1080" timestamp="1610699673343" />
+    <state width="1874" height="239" key="GridCell.Tab.1.center" timestamp="1610699673343">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state width="1874" height="239" key="GridCell.Tab.1.center/0.0.1920.1080@0.0.1920.1080" timestamp="1610699673343" />
+    <state width="1874" height="239" key="GridCell.Tab.1.left" timestamp="1610699673343">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state width="1874" height="239" key="GridCell.Tab.1.left/0.0.1920.1080@0.0.1920.1080" timestamp="1610699673343" />
+    <state width="1874" height="239" key="GridCell.Tab.1.right" timestamp="1610699673343">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state width="1874" height="239" key="GridCell.Tab.1.right/0.0.1920.1080@0.0.1920.1080" timestamp="1610699673343" />
+    <state x="623" y="238" key="run.anything.popup" timestamp="1609995379376">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state x="623" y="238" key="run.anything.popup/0.0.1920.1080@0.0.1920.1080" timestamp="1609995379376" />
+    <state x="623" y="219" width="672" height="678" key="search.everywhere.popup" timestamp="1610099151114">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state x="623" y="219" width="672" height="678" key="search.everywhere.popup/0.0.1920.1080@0.0.1920.1080" timestamp="1610099151114" />
+  </component>
+  <component name="debuggerHistoryManager">
+    <expressions id="watch">
+      <expression>
+        <expression-string>parts[0]</expression-string>
+        <language-id>ObjectiveC</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>buf[2]</expression-string>
+        <language-id>ObjectiveC</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>buf[1]</expression-string>
+        <language-id>ObjectiveC</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>buf[0]</expression-string>
+        <language-id>ObjectiveC</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>places.size()</expression-string>
+        <language-id>ObjectiveC</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>]</expression-string>
+        <language-id>ObjectiveC</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>contour.at(0)</expression-string>
+        <language-id>ObjectiveC</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>contout.at(0)</expression-string>
+        <language-id>ObjectiveC</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>contout.at(9)</expression-string>
+        <language-id>ObjectiveC</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>contour[2]</expression-string>
+        <language-id>ObjectiveC</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+    </expressions>
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/CMakeLists.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="144">
+          <caret line="8" column="26" selection-start-line="8" selection-start-column="26" selection-end-line="8" selection-end-column="26" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/cmake-build-debug/test.png">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file:///usr/include/c++/10.2.0/bits/basic_string.h">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="194">
+          <caret line="526" selection-start-line="526" selection-end-line="526" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file:///usr/include/opencv4/opencv2/highgui.hpp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="198">
+          <caret line="198" column="5" selection-start-line="198" selection-start-column="5" selection-end-line="198" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file:///usr/include/opencv4/opencv2/core/mat.hpp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-126">
+          <caret line="1210" column="9" selection-start-line="1210" selection-start-column="9" selection-end-line="1210" selection-end-column="9" />
+          <folding>
+            <element signature="e#94218#94250#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file:///usr/include/opencv4/opencv2/imgproc.hpp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="216">
+          <caret line="2916" column="50" selection-start-line="2916" selection-start-column="35" selection-end-line="2916" selection-end-column="50" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/Downloads/diplomy.txt" />
+    <entry file="file://$PROJECT_DIR$/main.cpp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="375">
+          <caret line="212" selection-start-line="212" selection-end-line="212" />
+          <folding>
+            <element signature="e#36#55#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>

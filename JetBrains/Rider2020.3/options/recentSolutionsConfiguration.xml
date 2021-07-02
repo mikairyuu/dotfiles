@@ -1,0 +1,40 @@
+<application>
+  <component name="SolutionConfigurationStore">
+    <option name="configurations">
+      <map>
+        <entry key="$USER_HOME$/Documents/projects/schwarz/schwarz.sln">
+          <value>
+            <ConfigurationInfo>
+              <option name="activeConfiguration" value="Debug" />
+              <option name="activePlatform" value="Any CPU" />
+            </ConfigurationInfo>
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/RiderProjects/OpenTabletDriver/OpenTabletDriver.sln">
+          <value>
+            <ConfigurationInfo>
+              <option name="activeConfiguration" value="Debug" />
+              <option name="activePlatform" value="x64" />
+            </ConfigurationInfo>
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/RiderProjects/Solution1/Solution1.sln">
+          <value>
+            <ConfigurationInfo>
+              <option name="activeConfiguration" value="Debug" />
+              <option name="activePlatform" value="Any CPU" />
+            </ConfigurationInfo>
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/RiderProjects/chessthing/chessthing.sln">
+          <value>
+            <ConfigurationInfo>
+              <option name="activeConfiguration" value="Debug" />
+              <option name="activePlatform" value="Any CPU" />
+            </ConfigurationInfo>
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+</application>

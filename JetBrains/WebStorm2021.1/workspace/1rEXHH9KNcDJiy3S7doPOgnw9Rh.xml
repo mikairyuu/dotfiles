@@ -1,0 +1,444 @@
+<project version="4">
+  <component name="BranchesTreeState">
+    <expand>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </expand>
+    <select />
+  </component>
+  <component name="FavoritesManager">
+    <favorites_list name="xsonicru.github.io" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="-1">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/index.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="242">
+              <caret line="11" column="26" lean-forward="true" selection-start-line="11" selection-start-column="26" selection-end-line="11" selection-end-column="26" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/card-page.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="199">
+              <caret line="12" column="13" lean-forward="true" selection-start-line="12" selection-start-column="13" selection-end-line="12" selection-end-column="13" />
+              <folding>
+                <element signature="n#style#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/recommendations.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="176">
+              <caret line="11" column="30" lean-forward="true" selection-start-line="11" selection-start-column="30" selection-end-line="11" selection-end-column="30" />
+              <folding>
+                <element signature="n#style#0;n#table#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/game.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="418">
+              <caret line="19" column="10" lean-forward="true" selection-start-line="19" selection-start-column="10" selection-end-line="19" selection-end-column="10" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/styles.css">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="1078">
+              <caret line="49" lean-forward="true" selection-start-line="49" selection-end-line="49" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/game.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="9183">
+              <caret line="554" column="1" selection-start-line="554" selection-start-column="1" selection-end-line="554" selection-end-column="1" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>drawables</find>
+      <find>new</find>
+      <find>push</find>
+      <find>random_range</find>
+      <find>CurID</find>
+      <find>delete</find>
+      <find>update</find>
+      <find>update()</find>
+      <find>update()a</find>
+      <find>destroy</find>
+      <find>remove</find>
+      <find>Player</find>
+      <find>hea</find>
+      <find>healthb</find>
+      <find>takehi</find>
+      <find>20</find>
+      <find>boss</find>
+      <find>star.</find>
+      <find>id</find>
+    </findStrings>
+  </component>
+  <component name="IdeDocumentHistory">
+    <changedPaths>
+      <option value="$PROJECT_DIR$/recommendations.html" />
+      <option value="$PROJECT_DIR$/card-page.html" />
+      <option value="$PROJECT_DIR$/game.html" />
+      <option value="$PROJECT_DIR$/index.html" />
+      <option value="$PROJECT_DIR$/styles.css" />
+      <option value="$PROJECT_DIR$/game.js" />
+    </changedPaths>
+  </component>
+  <component name="IgnoredFileRootStore">
+    <option name="generatedRoots">
+      <set>
+        <option value="$PROJECT_DIR$/.idea" />
+      </set>
+    </option>
+  </component>
+  <component name="ProjectView">
+    <navigator currentView="ProjectPane" proportions="" version="1" />
+    <panes>
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="xsonicru.github.io" type="b2602c69:ProjectViewProjectNode" />
+              <item name="xsonicru.github.io" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="xsonicru.github.io" type="b2602c69:ProjectViewProjectNode" />
+              <item name="xsonicru.github.io" type="462c0819:PsiDirectoryNode" />
+              <item name="game" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="Scope" />
+    </panes>
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="105432000" />
+  </component>
+  <component name="ToolWindowManager">
+    <layout>
+      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.49949032" visible="true" weight="0.11156717" />
+      <window_info id="Structure" order="1" side_tool="true" />
+      <window_info id="Favorites" order="2" sideWeight="0.5005097" side_tool="true" weight="0.10490605" />
+      <window_info id="Commit" order="3" weight="0.22201493" />
+      <window_info id="Pull Requests" order="4" />
+      <window_info id="Learn" order="5" />
+      <window_info anchor="bottom" id="Version Control" order="0" weight="0.3303232" />
+      <window_info anchor="bottom" id="Event Log" order="1" side_tool="true" />
+      <window_info anchor="bottom" id="Find" order="2" weight="0.32968128" />
+      <window_info anchor="bottom" id="Run" order="3" weight="0.32968128" />
+      <window_info anchor="bottom" id="TODO" order="4" />
+      <window_info anchor="bottom" id="Problems View" order="5" weight="0.32968128" />
+      <window_info anchor="bottom" id="Internal Method Tracing" order="6" />
+      <window_info anchor="bottom" id="Inspection" order="7" weight="0.4" />
+      <window_info anchor="bottom" id="File Transfer" order="8" />
+      <window_info anchor="bottom" id="Debug" order="9" weight="0.37959182" />
+      <window_info anchor="bottom" id="Terminal" order="10" />
+      <window_info anchor="bottom" id="Flow" order="11" />
+      <window_info anchor="bottom" id="TypeScript" order="12" />
+      <window_info anchor="bottom" id="Services" order="13" show_stripe_button="false" />
+    </layout>
+    <layout-to-restore>
+      <window_info content_ui="combo" id="Project" order="0" weight="0.09237996" />
+      <window_info id="Structure" order="1" side_tool="true" />
+      <window_info id="Favorites" order="2" side_tool="true" />
+      <window_info id="Commit" order="3" visible="true" weight="0.14435147" />
+      <window_info id="Pull Requests" order="4" />
+      <window_info id="Learn" order="5" />
+      <window_info anchor="bottom" id="Version Control" order="0" />
+      <window_info anchor="bottom" id="Event Log" order="1" side_tool="true" />
+      <window_info anchor="bottom" id="Find" order="2" />
+      <window_info anchor="bottom" id="Run" order="3" />
+      <window_info anchor="bottom" id="TODO" order="4" />
+      <window_info anchor="bottom" id="Problems View" order="5" weight="0.32968128" />
+      <window_info anchor="bottom" id="Debug" order="6" visible="true" weight="0.5983146" />
+      <window_info anchor="bottom" id="Internal Method Tracing" order="7" />
+      <window_info anchor="bottom" id="Inspection" order="8" weight="0.4" />
+      <window_info anchor="bottom" id="File Transfer" order="9" />
+      <window_info anchor="bottom" id="Terminal" order="10" />
+      <window_info anchor="bottom" id="Flow" order="11" />
+      <window_info anchor="bottom" id="TypeScript" order="12" />
+      <window_info anchor="bottom" id="Services" order="13" show_stripe_button="false" />
+    </layout-to-restore>
+    <recentWindows>
+      <value>Project</value>
+      <value>Commit</value>
+      <value>Version Control</value>
+      <value>Debug</value>
+      <value>Favorites</value>
+      <value>Find</value>
+      <value>Run</value>
+      <value>Problems View</value>
+    </recentWindows>
+  </component>
+  <component name="Trusted.Project.Settings" hasCheckedIfOldProject="true" />
+  <component name="WindowStateProjectService">
+    <state x="537" y="260" width="844" height="525" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1618718747795">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state x="537" y="260" width="844" height="525" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1920.1080@0.0.1920.1080" timestamp="1618718747795" />
+    <state x="413" y="217" width="121" height="538" key="#xdebugger.XInspectDialog" timestamp="1618721630250">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state x="413" y="217" width="121" height="538" key="#xdebugger.XInspectDialog/0.0.1920.1080@0.0.1920.1080" timestamp="1618721630250" />
+    <state x="229" y="95" key="#xdebugger.evaluate" timestamp="1618787993541">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state x="229" y="95" key="#xdebugger.evaluate/0.0.1920.1080@0.0.1920.1080" timestamp="1618787993541" />
+    <state x="-1" y="39" width="1538" height="885" key="DiffContextDialog" timestamp="1618569830982">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state x="-1" y="39" width="1538" height="885" key="DiffContextDialog/0.0.1920.1080@0.0.1920.1080" timestamp="1618569830982" />
+    <state x="741" y="236" width="426" height="475" key="FileChooserDialogImpl" timestamp="1621932596482">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state x="741" y="236" width="426" height="475" key="FileChooserDialogImpl/0.0.1920.1080@0.0.1920.1080" timestamp="1621932596482" />
+    <state width="1893" height="344" key="GridCell.Tab.0.bottom" timestamp="1619331871370">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state width="1893" height="344" key="GridCell.Tab.0.bottom/0.0.1920.1080@0.0.1920.1080" timestamp="1619331871370" />
+    <state width="1893" height="344" key="GridCell.Tab.0.center" timestamp="1619331871369">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state width="1893" height="344" key="GridCell.Tab.0.center/0.0.1920.1080@0.0.1920.1080" timestamp="1619331871369" />
+    <state width="1893" height="344" key="GridCell.Tab.0.left" timestamp="1619331871368">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state width="1893" height="344" key="GridCell.Tab.0.left/0.0.1920.1080@0.0.1920.1080" timestamp="1619331871368" />
+    <state width="1893" height="344" key="GridCell.Tab.0.right" timestamp="1619331871369">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state width="1893" height="344" key="GridCell.Tab.0.right/0.0.1920.1080@0.0.1920.1080" timestamp="1619331871369" />
+    <state width="1893" height="344" key="GridCell.Tab.1.bottom" timestamp="1619331871372">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state width="1893" height="344" key="GridCell.Tab.1.bottom/0.0.1920.1080@0.0.1920.1080" timestamp="1619331871372" />
+    <state width="1893" height="344" key="GridCell.Tab.1.center" timestamp="1619331871371">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state width="1893" height="344" key="GridCell.Tab.1.center/0.0.1920.1080@0.0.1920.1080" timestamp="1619331871371" />
+    <state width="1893" height="344" key="GridCell.Tab.1.left" timestamp="1619331871371">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state width="1893" height="344" key="GridCell.Tab.1.left/0.0.1920.1080@0.0.1920.1080" timestamp="1619331871371" />
+    <state width="1893" height="344" key="GridCell.Tab.1.right" timestamp="1619331871372">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state width="1893" height="344" key="GridCell.Tab.1.right/0.0.1920.1080@0.0.1920.1080" timestamp="1619331871372" />
+    <state width="1893" height="344" key="GridCell.Tab.2.bottom" timestamp="1619331871374">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state width="1893" height="344" key="GridCell.Tab.2.bottom/0.0.1920.1080@0.0.1920.1080" timestamp="1619331871374" />
+    <state width="1893" height="344" key="GridCell.Tab.2.center" timestamp="1619331871373">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state width="1893" height="344" key="GridCell.Tab.2.center/0.0.1920.1080@0.0.1920.1080" timestamp="1619331871373" />
+    <state width="1893" height="344" key="GridCell.Tab.2.left" timestamp="1619331871373">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state width="1893" height="344" key="GridCell.Tab.2.left/0.0.1920.1080@0.0.1920.1080" timestamp="1619331871373" />
+    <state width="1893" height="344" key="GridCell.Tab.2.right" timestamp="1619331871373">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state width="1893" height="344" key="GridCell.Tab.2.right/0.0.1920.1080@0.0.1920.1080" timestamp="1619331871373" />
+    <state width="1893" height="344" key="GridCell.Tab.3.bottom" timestamp="1619331871376">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state width="1893" height="344" key="GridCell.Tab.3.bottom/0.0.1920.1080@0.0.1920.1080" timestamp="1619331871376" />
+    <state width="1893" height="344" key="GridCell.Tab.3.center" timestamp="1619331871375">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state width="1893" height="344" key="GridCell.Tab.3.center/0.0.1920.1080@0.0.1920.1080" timestamp="1619331871375" />
+    <state width="1893" height="344" key="GridCell.Tab.3.left" timestamp="1619331871374">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state width="1893" height="344" key="GridCell.Tab.3.left/0.0.1920.1080@0.0.1920.1080" timestamp="1619331871374" />
+    <state width="1893" height="344" key="GridCell.Tab.3.right" timestamp="1619331871375">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state width="1893" height="344" key="GridCell.Tab.3.right/0.0.1920.1080@0.0.1920.1080" timestamp="1619331871375" />
+    <state x="542" y="253" width="826" height="505" key="IDE.errors.dialog" timestamp="1618814780729">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state x="542" y="253" width="826" height="505" key="IDE.errors.dialog/0.0.1920.1080@0.0.1920.1080" timestamp="1618814780729" />
+    <state x="446" y="105" key="SettingsEditor" timestamp="1624540452389">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state x="446" y="105" key="SettingsEditor/0.0.1920.1080@0.0.1920.1080" timestamp="1624540452389" />
+    <state x="155" y="-54" width="802" height="519" key="Vcs.Push.Dialog.v2" timestamp="1619583115424">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state x="155" y="-54" width="802" height="519" key="Vcs.Push.Dialog.v2/0.0.1920.1080@0.0.1920.1080" timestamp="1619583115423" />
+    <state x="742" y="424" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1618720090949">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state x="742" y="424" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.0.1920.1080@0.0.1920.1080" timestamp="1618720090949" />
+    <state x="312" y="291" width="325" height="429" key="refactoring.ChangeSignatureDialog" timestamp="1618584834391">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state x="312" y="291" width="325" height="429" key="refactoring.ChangeSignatureDialog/0.0.1920.1080@0.0.1920.1080" timestamp="1618584834391" />
+    <state x="143" y="244" width="672" height="686" key="run.anything.popup" timestamp="1618750562352">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state x="143" y="244" width="672" height="686" key="run.anything.popup/0.0.1920.1080@0.0.1920.1080" timestamp="1618750562352" />
+    <state x="143" y="225" width="672" height="687" key="search.everywhere.popup" timestamp="1618801186976">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state x="143" y="225" width="672" height="687" key="search.everywhere.popup/0.0.1920.1080@0.0.1920.1080" timestamp="1618801186976" />
+  </component>
+  <component name="debuggerHistoryManager">
+    <expressions id="watch">
+      <expression>
+        <expression-string>objects</expression-string>
+        <language-id>JavaScript</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>objects.get(5)</expression-string>
+        <language-id>JavaScript</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>objects.get(8)</expression-string>
+        <language-id>JavaScript</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>objects.get(8</expression-string>
+        <language-id>JavaScript</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>objects.size</expression-string>
+        <language-id>JavaScript</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>this.rect.x(this.type ? +this.speed : -this.speed);</expression-string>
+        <language-id>JavaScript</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>drawables</expression-string>
+        <language-id>JavaScript</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+    </expressions>
+    <expressions id="evaluateExpression">
+      <expression>
+        <expression-string>objects</expression-string>
+        <language-id>JavaScript</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>objects.get(5)</expression-string>
+        <language-id>JavaScript</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>objects.size</expression-string>
+        <language-id>JavaScript</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+    </expressions>
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="http://localhost:63342/xsonicru.github.io/game.js">
+      <provider selected="true" editor-type-id="httpFileEditor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/game/star.png">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/game/boss.png">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/game/spaceship.png">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/game/enemy.png">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/card-page.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="199">
+          <caret line="12" column="13" lean-forward="true" selection-start-line="12" selection-start-column="13" selection-end-line="12" selection-end-column="13" />
+          <folding>
+            <element signature="n#style#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/recommendations.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="176">
+          <caret line="11" column="30" lean-forward="true" selection-start-line="11" selection-start-column="30" selection-end-line="11" selection-end-column="30" />
+          <folding>
+            <element signature="n#style#0;n#table#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="242">
+          <caret line="11" column="26" lean-forward="true" selection-start-line="11" selection-start-column="26" selection-end-line="11" selection-end-column="26" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/styles.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1078">
+          <caret line="49" lean-forward="true" selection-start-line="49" selection-end-line="49" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/game.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="418">
+          <caret line="19" column="10" lean-forward="true" selection-start-line="19" selection-start-column="10" selection-end-line="19" selection-end-column="10" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/game.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="9183">
+          <caret line="554" column="1" selection-start-line="554" selection-start-column="1" selection-end-line="554" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>

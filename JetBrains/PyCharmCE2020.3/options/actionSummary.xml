@@ -1,0 +1,121 @@
+<application>
+  <component name="ActionsLocalSummary">
+    <e n="$SelectAll">
+      <i c="13" l="1616751919923" />
+    </e>
+    <e n="$Undo">
+      <i c="77" l="1616636852804" />
+    </e>
+    <e n="Debug">
+      <i c="7" l="1616636555420" />
+    </e>
+    <e n="EditorBackSpace">
+      <i c="843" l="1616751917923" />
+    </e>
+    <e n="EditorChooseLookupItem">
+      <i c="49" l="1616636796962" />
+    </e>
+    <e n="EditorCopy">
+      <i c="19" l="1616751920352" />
+    </e>
+    <e n="EditorCut">
+      <i c="22" l="1616751894994" />
+    </e>
+    <e n="EditorDelete">
+      <i c="2" l="1615465182945" />
+    </e>
+    <e n="EditorDeleteToWordStart">
+      <i c="109" l="1616635907506" />
+    </e>
+    <e n="EditorDown">
+      <i c="108" l="1616636089197" />
+    </e>
+    <e n="EditorEnter">
+      <i c="87" l="1616751853323" />
+    </e>
+    <e n="EditorLeft">
+      <i c="71" l="1616751875988" />
+    </e>
+    <e n="EditorLeftWithSelection">
+      <i c="2" l="1615459776153" />
+    </e>
+    <e n="EditorNextWord">
+      <i c="63" l="1615460979001" />
+    </e>
+    <e n="EditorPaste">
+      <i c="39" l="1616751896058" />
+    </e>
+    <e n="EditorPreviousWord">
+      <i c="60" l="1615460977444" />
+    </e>
+    <e n="EditorRight">
+      <i c="108" l="1616635957243" />
+    </e>
+    <e n="EditorRightWithSelection">
+      <i c="1" l="1615459014719" />
+    </e>
+    <e n="EditorScrollDown">
+      <i c="3" l="1615460221267" />
+    </e>
+    <e n="EditorStartNewLine">
+      <i c="1" l="1615392492246" />
+    </e>
+    <e n="EditorTab">
+      <i c="3" l="1615463478631" />
+    </e>
+    <e n="EditorUp">
+      <i c="40" l="1616636845871" />
+    </e>
+    <e n="ReformatCode">
+      <i c="10" l="1616751919573" />
+    </e>
+    <e n="Rerun">
+      <i c="25" l="1616751907780" />
+    </e>
+    <e n="Resume">
+      <i c="3" l="1616636676502" />
+    </e>
+    <e n="Run">
+      <i c="23" l="1616751845713" />
+    </e>
+    <e n="SearchEverywhere">
+      <i c="1" l="1615463833077" />
+    </e>
+    <e n="StepOver">
+      <i c="27" l="1616633445815" />
+    </e>
+    <e n="Stop">
+      <i c="11" l="1616751865572" />
+    </e>
+    <e n="ToggleLineBreakpoint">
+      <i c="6" l="1616636844203" />
+    </e>
+    <e n="XDebugger.NewWatch">
+      <i c="2" l="1616635155857" />
+    </e>
+    <e n="XDebugger.RemoveWatch">
+      <i c="1" l="1616633452882" />
+    </e>
+    <e n="com.intellij.execution.console.ConsoleExecuteAction">
+      <i c="12" l="1616636607534" />
+    </e>
+    <e n="com.intellij.execution.impl.ConsoleViewImpl$BackSpaceHandler">
+      <i c="17" l="1616636802543" />
+    </e>
+    <e n="com.intellij.execution.impl.ConsoleViewImpl$EnterHandler">
+      <i c="82" l="1616751911149" />
+    </e>
+    <e n="com.intellij.execution.impl.ConsoleViewImpl$PasteHandler">
+      <i c="10" l="1615464426005" />
+    </e>
+    <e n="com.intellij.ide.SystemHealthMonitor$3">
+      <i c="1" l="1615391719033" />
+    </e>
+    <e n="com.intellij.openapi.ui.DialogWrapper$5">
+      <i c="1" l="1616752246295" />
+    </e>
+    <e n="com.intellij.xdebugger.impl.breakpoints.RemoveBreakpointGutterIconAction">
+      <i c="3" l="1616635724632" />
+    </e>
+  </component>
+</application>
