@@ -15,21 +15,23 @@ set $mod Mod4
 for_window [class="^.*"] border pixel 2
 new_window 1pixel
 
-gaps bottom 24
+#gaps bottom 24
 
 # Autoexec
-exec_always --no-startup-id "~/.config/polybar/launch.sh"
+exec_always --no-startup-id "~/.config/polybar/launch.sh --cuts"
 exec picom --experimental-backends 
+#exec "~/.config/polybar/cuts/scripts/pywal.sh" ~/Documents/wallpaper
 exec autotiling
 exec xinput disable "ELAN2204:00 04F3:3109 Touchpad"
-exec nitrogen --set-auto /home/gohan/Documents/wallpaper
 #Custom keybinds
 bindsym $mod+c exec xinput enable "ELAN2204:00 04F3:3109 Touchpad"
 bindsym $mod+b exec xinput disable "ELAN2204:00 04F3:3109 Touchpad"
 bindsym $mod+x exec sleep 1 && xset dpms force off
 bindsym $mod+z exec systemctl suspend
 bindsym $mod+o exec google-chrome-stable
-exec redshift -l 43.03:131.89
+bindsym Print exec "maim -s | xclip -selection clipboard -t image/png"
+exec redshift -l 43.03:131.89 # - vladivostok
+#exec redshift -l 55.7:38 #-moscow
 
 # Font for window titles. Will also be used by the bar unless a different font
 # is used in the bar {} block below.
@@ -211,3 +213,4 @@ bindsym $mod+r mode "resize"
 #        status_command i3status
 #}
 exec_always "~/.config/i3/kb_cfg.sh"
+exec_always "~/.config/i3/screenenabler.sh"

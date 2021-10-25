@@ -1,0 +1,59 @@
+<application>
+  <component name="RiderRecentProjectsManager">
+    <option name="additionalInfo">
+      <map>
+        <entry key="$USER_HOME$/RiderProjects/vtb-backend/WebApplication.sln">
+          <value>
+            <RecentProjectMetaInfo frameTitle="WebApplication – ~/RiderProjects/vtb-backend/vtb-backend.csproj" projectWorkspaceId="1zFLjrV4fZNJfetvIV65eulmGgj">
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="build" value="RD-212.5080.71" />
+              <option name="buildTimestamp" value="1629981895073" />
+              <frame x="1279" y="-20" width="1922" height="1101" />
+              <option name="productionCode" value="RD" />
+              <option name="projectOpenTimestamp" value="1633739166584" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/RiderProjects/vtb-backend">
+          <value>
+            <RecentProjectMetaInfo displayName="vtb-backend" frameTitle="vtb-backend" projectWorkspaceId="1zFNhKgV4IUjw1ba81GVciON6d4">
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="build" value="RD-212.5080.71" />
+              <option name="buildTimestamp" value="1629981895073" />
+              <frame x="2240" y="522" width="959" height="529" />
+              <option name="metadata" value="vtb-backend|" />
+              <option name="productionCode" value="RD" />
+              <option name="projectOpenTimestamp" value="1633746737289" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/RiderProjects/vtb-backend/vtb-backend.csproj">
+          <value>
+            <RecentProjectMetaInfo displayName="vtb-backend" frameTitle="vtb-backend – AccountService.cs" projectWorkspaceId="1zFNhKgV4IUjw1ba81GVciON6d4">
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="build" value="RD-212.5284.64" />
+              <option name="buildTimestamp" value="1633726903498" />
+              <frame x="1" y="-18" width="1278" height="737" />
+              <option name="metadata" value="vtb-backend|/home/mikairyuu/RiderProjects/vtb-backend/vtb-backend.csproj" />
+              <option name="productionCode" value="RD" />
+              <option name="projectOpenTimestamp" value="1634945454080" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/RiderProjects/volvo-backend/volvo-backend.sln">
+          <value>
+            <RecentProjectMetaInfo frameTitle="volvo-backend – RouteController.cs" opened="true" projectWorkspaceId="1zsnEBn3kb7bZZLelhBge47kjwa">
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="build" value="RD-212.5284.64" />
+              <option name="buildTimestamp" value="1633726881649" />
+              <frame x="1" y="-18" width="1278" height="737" />
+              <option name="productionCode" value="RD" />
+              <option name="projectOpenTimestamp" value="1635047010843" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="lastProjectLocation" value="$USER_HOME$/RiderProjects" />
+  </component>
+</application>

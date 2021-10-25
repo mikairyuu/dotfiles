@@ -1,0 +1,57 @@
+<application>
+  <component name="RecentProjectsManager">
+    <option name="additionalInfo">
+      <map>
+        <entry key="$USER_HOME$/CLionProjects/polyselect">
+          <value>
+            <RecentProjectMetaInfo frameTitle="polyselect – helper.rs" projectWorkspaceId="1ylGrhirC0OvqIOagruC8ZsSZ1g">
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="build" value="CL-212.5284.51" />
+              <option name="buildTimestamp" value="1631816464805" />
+              <frame x="1" y="-18" width="1278" height="737" />
+              <option name="productionCode" value="CL" />
+              <option name="projectOpenTimestamp" value="1632977235264" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/CLionProjects/project">
+          <value>
+            <RecentProjectMetaInfo frameTitle="project – main.cpp" projectWorkspaceId="1yRKKAFMb5lWPGd7hmUy6yg7NoK">
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="build" value="CL-212.5284.51" />
+              <option name="buildTimestamp" value="1631816470950" />
+              <frame x="1281" y="10" width="1918" height="1041" />
+              <option name="productionCode" value="CL" />
+              <option name="projectOpenTimestamp" value="1633050052797" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/CLionProjects/untitled">
+          <value>
+            <RecentProjectMetaInfo frameTitle="untitled – Cargo.toml" projectWorkspaceId="1yngO1JjMLURJlwCibmZ04V513c">
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="build" value="CL-212.5284.51" />
+              <option name="buildTimestamp" value="1631816501445" />
+              <frame x="1281" y="10" width="1918" height="1041" />
+              <option name="productionCode" value="CL" />
+              <option name="projectOpenTimestamp" value="1633526159648" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/CLionProjects/untitled1">
+          <value>
+            <RecentProjectMetaInfo frameTitle="untitled1 – main.cpp" opened="true" projectWorkspaceId="1z8OK2eq5m7ERarz7GgxKclNgkK">
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="build" value="CL-212.5284.51" />
+              <option name="buildTimestamp" value="1631816501445" />
+              <frame x="1281" y="10" width="1918" height="1041" />
+              <option name="productionCode" value="CL" />
+              <option name="projectOpenTimestamp" value="1633526180139" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="lastProjectLocation" value="$USER_HOME$/CLionProjects" />
+  </component>
+</application>

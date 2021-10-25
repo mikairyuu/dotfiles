@@ -1,0 +1,11 @@
+<application>
+  <component name="TrustedSolutionStore">
+    <option name="trustedLocations">
+      <set>
+        <option value="$USER_HOME$/RiderProjects/volvo-backend/.idea/.idea.volvo-backend" />
+        <option value="$USER_HOME$/RiderProjects/vtb-backend/.idea/.idea.WebApplication" />
+        <option value="$USER_HOME$/RiderProjects/vtb-backend/.idea/.idea.vtb-backend.dir" />
+      </set>
+    </option>
+  </component>
+</application>

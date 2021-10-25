@@ -1,0 +1,15 @@
+<application>
+  <component name="ShownTips">
+    <option name="shownTips">
+      <map>
+        <entry key="ColorEditingInCss.html" value="1634020077156" />
+        <entry key="CopyPasteReference.html" value="1632722341812" />
+        <entry key="DotEtcInLookups.html" value="1632812214859" />
+        <entry key="GoToImplementation.html" value="1632530024478" />
+        <entry key="HierarchyBrowser.html" value="1634265660284" />
+        <entry key="RichTextCopy.html" value="1633156995727" />
+        <entry key="YouTrack_integration.html" value="1633872575388" />
+      </map>
+    </option>
+  </component>
+</application>

@@ -1,0 +1,31 @@
+<application>
+  <component name="SolutionConfigurationStore">
+    <option name="configurations">
+      <map>
+        <entry key="$USER_HOME$/RiderProjects/volvo-backend/volvo-backend.sln">
+          <value>
+            <ConfigurationInfo>
+              <option name="activeConfiguration" value="Debug" />
+              <option name="activePlatform" value="Any CPU" />
+            </ConfigurationInfo>
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/RiderProjects/vtb-backend">
+          <value>
+            <ConfigurationInfo />
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/RiderProjects/vtb-backend/WebApplication.sln">
+          <value>
+            <ConfigurationInfo />
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/RiderProjects/vtb-backend/vtb-backend.csproj">
+          <value>
+            <ConfigurationInfo />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+</application>

@@ -1,0 +1,57 @@
+<application>
+  <component name="RecentProjectsManager">
+    <option name="additionalInfo">
+      <map>
+        <entry key="$USER_HOME$/IdeaProjects/project">
+          <value>
+            <RecentProjectMetaInfo frameTitle="project – HelloApplication.kt [project.main]" projectWorkspaceId="1yWzoX4l1nQKG00OxbFOISEvy9W">
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="build" value="IU-212.5284.40" />
+              <option name="buildTimestamp" value="1631597464856" />
+              <frame x="1" y="-18" width="1278" height="737" />
+              <option name="productionCode" value="IU" />
+              <option name="projectOpenTimestamp" value="1632382307269" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/IdeaProjects/ktproject">
+          <value>
+            <RecentProjectMetaInfo frameTitle="ktproject – main.kt" projectWorkspaceId="1yX1emmsFdvlfFJTwUv4NY0eca2">
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="build" value="IU-212.5284.40" />
+              <option name="buildTimestamp" value="1631597501746" />
+              <frame x="1" y="-18" width="1278" height="737" />
+              <option name="productionCode" value="IU" />
+              <option name="projectOpenTimestamp" value="1632383218480" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/IdeaProjects/untitled">
+          <value>
+            <RecentProjectMetaInfo frameTitle="untitled – main.kt" projectWorkspaceId="1ziTuqsEunw4f7nJzlvsPmsaOru">
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="build" value="IU-212.5457.46" />
+              <option name="buildTimestamp" value="1634044835130" />
+              <frame x="1" y="-18" width="1278" height="737" />
+              <option name="productionCode" value="IU" />
+              <option name="projectOpenTimestamp" value="1634630134987" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/IdeaProjects/slim-screenshoter">
+          <value>
+            <RecentProjectMetaInfo frameTitle="slim-screenshoter – Main.kt [slim-screenshoter.main]" opened="true" projectWorkspaceId="1zcwXyu3LasXBvFkW6NU3Wzcixa">
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="build" value="IU-212.5457.46" />
+              <option name="buildTimestamp" value="1634044835130" />
+              <frame x="1281" y="10" width="1918" height="1041" />
+              <option name="productionCode" value="IU" />
+              <option name="projectOpenTimestamp" value="1634630781891" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="lastProjectLocation" value="$USER_HOME$/IdeaProjects" />
+  </component>
+</application>

@@ -1,0 +1,53 @@
+<application>
+  <component name="ProjectPluginTrackerManager">
+    <trackers>
+      <map>
+        <entry key="1ybpD25v9Rzr5DFTutIpExcestL">
+          <value>
+            <ProjectPluginTracker />
+          </value>
+        </entry>
+        <entry key="1ybpX2nwDqAkdDUzbfYHcCJtST2">
+          <value>
+            <ProjectPluginTracker />
+          </value>
+        </entry>
+      </map>
+    </trackers>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="ExpandBeforeRunStepsPanel" value="true" />
+    <property name="InstalledPluginsSearchHistory" value="tomorrow night theme&#10;tomorrow night the&#10;tomorrow night&#10;tomorrow nig&#10;tomorrow" />
+    <property name="MarketplacePluginsSearchHistory" value="tomorrow night theme&#10;p&#10;po" />
+    <property name="MemberChooser.showClasses" value="true" />
+    <property name="NonModalCommitCustomization.IsApplied" value="true" />
+    <property name="PhpStorm.InitialConfiguration" value="true" />
+    <property name="SettingsSearchHistory" value="plugin&#10;docker" />
+    <property name="appcds.runOnSecondStart" value="PS-212.5457.49-b12ddd81a4edb7300e2de8746412dfc11c9817e169e28e1e499476c335381a9f" />
+    <property name="ask.about.ctrl.y.shortcut.v2" value="true" />
+    <property name="evlsprt3.212" value="19" />
+    <property name="file.chooser.recent.files" value="$USER_HOME$/dev/laravel-app/database&#10;/home/mikairyuu/dev/laravel-app" />
+    <property name="file.gist.reindex.count" value="48" />
+    <property name="fileTypeChangedCounter" value="1" />
+    <property name="fileTypeDetectors" value="com.intellij.database.vfs.DbStorageFileType$Detector:com.intellij.ide.scratch.ScratchFileServiceImpl$Detector:com.intellij.javascript.debugger.sourcemap.SourceMapFileType$MyFileTypeDetector:com.jetbrains.nodejs.util.NodeFileTypeDetector$JavaScriptFileTypeDetector:com.jetbrains.nodejs.util.NodeFileTypeDetector$TypeScriptFileTypeDetector:org.jetbrains.plugins.textmate.TextMateFileType$TextMateFileDetector" />
+    <property name="got.it.tooltip.cwm.invitation.notification" value="1" />
+    <property name="got.it.tooltip.database.schema.control.got.it" value="1" />
+    <property name="got.it.tooltip.reader.mode.got.it" value="1" />
+    <property name="ide.memory.adjusted" value="true" />
+    <property name="ide.updates.previous.build.number" value="PS-212.5457.49" />
+    <property name="ide.updates.whats.new.shown.for" value="212" />
+    <property name="input.method.disabler.muted" value="true" />
+    <property name="log.trace.categories" value="#com.jetbrains.rdserver.requests&#10;#com.jetbrains.rd.ide.document&#10;#com.jetbrains.rdserver.document&#10;#com.jetbrains.rdserver.editors&#10;#com.jetbrains.rdserver.actions&#10;#com.jetbrains.rdserver.permissions" />
+    <property name="registry.to.advanced.settings.migration.build" value="PS-212.5457.49" />
+    <property name="tasks.pass.word.conversion.enforced" value="true" />
+    <property name="ts.lib.d.ts.version" value="4.3.5" />
+  </component>
+  <component name="TerminalCommandHistoryManager">
+    <command-history-files>
+      <command-history-file filename="laravel-app-history" project-path="$USER_HOME$/dev/laravel-app" last-access-time="1635065472865" />
+    </command-history-files>
+  </component>
+  <component name="ToolbarSettingsService">
+    <option name="NEW_TOOLBAR_SETTINGS" value="OLD_NAVBAR" />
+  </component>
+</application>

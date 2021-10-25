@@ -1,0 +1,348 @@
+<project version="4">
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="-1">
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/main.cpp">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="294">
+              <caret line="105" column="29" lean-forward="true" selection-start-line="105" selection-start-column="29" selection-end-line="105" selection-end-column="29" />
+              <folding>
+                <element signature="e#0#18#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>long long</find>
+      <find>const</find>
+      <find>throw</find>
+    </findStrings>
+    <replaceStrings>
+      <replace>int64_t</replace>
+    </replaceStrings>
+  </component>
+  <component name="IdeDocumentHistory">
+    <changedPaths>
+      <option value="$PROJECT_DIR$/test.cpp" />
+      <option value="$PROJECT_DIR$/main.h" />
+      <option value="$PROJECT_DIR$/num.cpp" />
+      <option value="$PROJECT_DIR$/CMakeLists.txt" />
+      <option value="$PROJECT_DIR$/main.cpp" />
+    </changedPaths>
+  </component>
+  <component name="IgnoredFileRootStore">
+    <option name="generatedRoots">
+      <set>
+        <option value="$PROJECT_DIR$/.idea" />
+      </set>
+    </option>
+  </component>
+  <component name="ProjectView">
+    <navigator currentView="ProjectPane" proportions="" version="1" />
+    <panes>
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="project" type="b2602c69:ProjectViewProjectNode" />
+              <item name="project" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="project" type="b2602c69:ProjectViewProjectNode" />
+              <item name="project" type="462c0819:PsiDirectoryNode" />
+              <item name="cmake-build-debug" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="project" type="b2602c69:ProjectViewProjectNode" />
+              <item name="project" type="462c0819:PsiDirectoryNode" />
+              <item name="cmake-build-debug" type="462c0819:PsiDirectoryNode" />
+              <item name=".sgit" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="project" type="b2602c69:ProjectViewProjectNode" />
+              <item name="project" type="462c0819:PsiDirectoryNode" />
+              <item name="cmake-build-debug" type="462c0819:PsiDirectoryNode" />
+              <item name=".sgit" type="462c0819:PsiDirectoryNode" />
+              <item name="aa" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="Scope" />
+    </panes>
+  </component>
+  <component name="TerminalArrangementManager">
+    <option name="myTabStates">
+      <TerminalTabState tabName="Local" currentWorkingDirectory="$PROJECT_DIR$/cmake-build-debug" commandHistoryFileName="project-history" />
+    </option>
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="85254000" />
+  </component>
+  <component name="ToolWindowManager">
+    <editor active="true" />
+    <layout>
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.13755229" />
+      <window_info id="Structure" order="1" side_tool="true" />
+      <window_info id="Favorites" order="2" side_tool="true" />
+      <window_info id="Commit" order="3" />
+      <window_info id="Pull Requests" order="4" />
+      <window_info anchor="bottom" id="Version Control" order="0" />
+      <window_info anchor="bottom" id="Event Log" order="1" side_tool="true" />
+      <window_info anchor="bottom" id="Find" order="2" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.3326389" />
+      <window_info anchor="bottom" id="TODO" order="4" />
+      <window_info anchor="bottom" id="Problems View" order="5" weight="0.46997207" />
+      <window_info anchor="bottom" id="Python Packages" order="6" />
+      <window_info anchor="bottom" id="Internal Method Tracing" order="7" />
+      <window_info anchor="bottom" id="Inspection" order="8" weight="0.4" />
+      <window_info anchor="bottom" id="File Transfer" order="9" />
+      <window_info anchor="bottom" id="Terminal" order="10" weight="0.33030725" />
+      <window_info anchor="bottom" id="clangd" order="11" />
+      <window_info anchor="bottom" id="CMake" order="12" weight="0.33284312" />
+      <window_info anchor="bottom" id="Database Changes" order="13" show_stripe_button="false" />
+      <window_info anchor="bottom" id="TypeScript" order="14" />
+      <window_info anchor="bottom" id="Messages" order="15" weight="0.4294693" />
+      <window_info anchor="bottom" id="Flow" order="16" />
+      <window_info anchor="bottom" id="Services" order="17" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Run" order="18" weight="0.25628492" />
+      <window_info anchor="right" id="Database" order="0" />
+      <window_info anchor="right" id="make" order="1" show_stripe_button="false" side_tool="true" />
+    </layout>
+    <recentWindows>
+      <value>Run</value>
+      <value>Messages</value>
+      <value>Project</value>
+      <value>Debug</value>
+      <value>Problems View</value>
+      <value>Terminal</value>
+      <value>CMake</value>
+    </recentWindows>
+  </component>
+  <component name="Trusted.Project.Settings" hasCheckedIfOldProject="true" trusted="YES" />
+  <component name="WindowStateProjectService">
+    <state x="112" y="-8" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1633405224529">
+      <screen x="0" y="0" width="1280" height="720" />
+    </state>
+    <state x="112" y="-8" key="#com.intellij.execution.impl.EditConfigurationsDialog/1280.0.1920.1080/0.0.1280.720@0.0.1280.720" timestamp="1633405224529" />
+    <state x="1712" y="172" key="#com.intellij.execution.impl.EditConfigurationsDialog/1280.0.1920.1080/0.0.1280.720@1280.0.1920.1080" timestamp="1632219774962" />
+    <state x="2021" y="198" width="426" height="575" key="#com.intellij.ide.macro.MacrosDialog" timestamp="1632716036496">
+      <screen x="1280" y="0" width="1920" height="1080" />
+    </state>
+    <state x="2021" y="198" width="426" height="575" key="#com.intellij.ide.macro.MacrosDialog/1280.0.1920.1080/0.0.1280.720@1280.0.1920.1080" timestamp="1632716036496" />
+    <state width="292" height="102" key="DebuggerActiveHint" timestamp="1632557509541">
+      <screen x="1280" y="0" width="1920" height="1080" />
+    </state>
+    <state width="292" height="102" key="DebuggerActiveHint/1280.0.1920.1080/0.0.1280.720@1280.0.1920.1080" timestamp="1632557509541" />
+    <state x="485" y="-8" width="359" height="317" key="FileChooserDialogImpl" timestamp="1632818853109">
+      <screen x="0" y="0" width="1280" height="720" />
+    </state>
+    <state x="485" y="-8" width="359" height="317" key="FileChooserDialogImpl/1280.0.1920.1080/0.0.1280.720@0.0.1280.720" timestamp="1632818853109" />
+    <state x="2014" y="108" width="426" height="475" key="FileChooserDialogImpl/1280.0.1920.1080/0.0.1280.720@1280.0.1920.1080" timestamp="1632373147045" />
+    <state width="1230" height="155" key="GridCell.Tab.0.bottom" timestamp="1633405336917">
+      <screen x="0" y="0" width="1280" height="720" />
+    </state>
+    <state width="1230" height="155" key="GridCell.Tab.0.bottom/1280.0.1920.1080/0.0.1280.720@0.0.1280.720" timestamp="1633405336917" />
+    <state width="1230" height="172" key="GridCell.Tab.0.bottom/1280.0.1920.1080/0.0.1280.720@1280.0.1920.1080" timestamp="1633392866012" />
+    <state width="1230" height="155" key="GridCell.Tab.0.center" timestamp="1633405336916">
+      <screen x="0" y="0" width="1280" height="720" />
+    </state>
+    <state width="1230" height="155" key="GridCell.Tab.0.center/1280.0.1920.1080/0.0.1280.720@0.0.1280.720" timestamp="1633405336916" />
+    <state width="1230" height="172" key="GridCell.Tab.0.center/1280.0.1920.1080/0.0.1280.720@1280.0.1920.1080" timestamp="1633392866011" />
+    <state width="1230" height="155" key="GridCell.Tab.0.left" timestamp="1633405336916">
+      <screen x="0" y="0" width="1280" height="720" />
+    </state>
+    <state width="1230" height="155" key="GridCell.Tab.0.left/1280.0.1920.1080/0.0.1280.720@0.0.1280.720" timestamp="1633405336916" />
+    <state width="1230" height="172" key="GridCell.Tab.0.left/1280.0.1920.1080/0.0.1280.720@1280.0.1920.1080" timestamp="1633392866007" />
+    <state width="1230" height="155" key="GridCell.Tab.0.right" timestamp="1633405336916">
+      <screen x="0" y="0" width="1280" height="720" />
+    </state>
+    <state width="1230" height="155" key="GridCell.Tab.0.right/1280.0.1920.1080/0.0.1280.720@0.0.1280.720" timestamp="1633405336916" />
+    <state width="1230" height="172" key="GridCell.Tab.0.right/1280.0.1920.1080/0.0.1280.720@1280.0.1920.1080" timestamp="1633392866012" />
+    <state width="1234" height="211" key="GridCell.Tab.1.bottom" timestamp="1633405336909">
+      <screen x="0" y="0" width="1280" height="720" />
+    </state>
+    <state width="1234" height="211" key="GridCell.Tab.1.bottom/1280.0.1920.1080/0.0.1280.720@0.0.1280.720" timestamp="1633405336909" />
+    <state width="1870" height="129" key="GridCell.Tab.1.bottom/1280.0.1920.1080/0.0.1280.720@1280.0.1920.1080" timestamp="1633149611896" />
+    <state width="1234" height="211" key="GridCell.Tab.1.center" timestamp="1633405336908">
+      <screen x="0" y="0" width="1280" height="720" />
+    </state>
+    <state width="1234" height="211" key="GridCell.Tab.1.center/1280.0.1920.1080/0.0.1280.720@0.0.1280.720" timestamp="1633405336908" />
+    <state width="1870" height="129" key="GridCell.Tab.1.center/1280.0.1920.1080/0.0.1280.720@1280.0.1920.1080" timestamp="1633149611895" />
+    <state width="1234" height="211" key="GridCell.Tab.1.left" timestamp="1633405336907">
+      <screen x="0" y="0" width="1280" height="720" />
+    </state>
+    <state width="1234" height="211" key="GridCell.Tab.1.left/1280.0.1920.1080/0.0.1280.720@0.0.1280.720" timestamp="1633405336907" />
+    <state width="1870" height="129" key="GridCell.Tab.1.left/1280.0.1920.1080/0.0.1280.720@1280.0.1920.1080" timestamp="1633149611895" />
+    <state width="1234" height="211" key="GridCell.Tab.1.right" timestamp="1633405336909">
+      <screen x="0" y="0" width="1280" height="720" />
+    </state>
+    <state width="1234" height="211" key="GridCell.Tab.1.right/1280.0.1920.1080/0.0.1280.720@0.0.1280.720" timestamp="1633405336909" />
+    <state width="1870" height="129" key="GridCell.Tab.1.right/1280.0.1920.1080/0.0.1280.720@1280.0.1920.1080" timestamp="1633149611896" />
+    <state width="1870" height="271" key="GridCell.Tab.2.bottom" timestamp="1632559695906">
+      <screen x="1280" y="0" width="1920" height="1080" />
+    </state>
+    <state width="1870" height="271" key="GridCell.Tab.2.bottom/1280.0.1920.1080/0.0.1280.720@1280.0.1920.1080" timestamp="1632559695906" />
+    <state width="1870" height="271" key="GridCell.Tab.2.center" timestamp="1632559695905">
+      <screen x="1280" y="0" width="1920" height="1080" />
+    </state>
+    <state width="1870" height="271" key="GridCell.Tab.2.center/1280.0.1920.1080/0.0.1280.720@1280.0.1920.1080" timestamp="1632559695905" />
+    <state width="1870" height="271" key="GridCell.Tab.2.left" timestamp="1632559695905">
+      <screen x="1280" y="0" width="1920" height="1080" />
+    </state>
+    <state width="1870" height="271" key="GridCell.Tab.2.left/1280.0.1920.1080/0.0.1280.720@1280.0.1920.1080" timestamp="1632559695905" />
+    <state width="1870" height="271" key="GridCell.Tab.2.right" timestamp="1632559695906">
+      <screen x="1280" y="0" width="1920" height="1080" />
+    </state>
+    <state width="1870" height="271" key="GridCell.Tab.2.right/1280.0.1920.1080/0.0.1280.720@1280.0.1920.1080" timestamp="1632559695906" />
+    <state x="-1" y="-20" key="SettingsEditor" timestamp="1632818928581">
+      <screen x="0" y="0" width="1280" height="720" />
+    </state>
+    <state x="-1" y="-20" key="SettingsEditor/1280.0.1920.1080/0.0.1280.720@0.0.1280.720" timestamp="1632818928581" />
+    <state x="1722" y="25" key="SettingsEditor/1280.0.1920.1080/0.0.1280.720@1280.0.1920.1080" timestamp="1632818645875" />
+    <state x="415" y="163" key="run.anything.popup" timestamp="1633403180570">
+      <screen x="0" y="0" width="1280" height="720" />
+    </state>
+    <state x="415" y="163" key="run.anything.popup/1280.0.1920.1080/0.0.1280.720@0.0.1280.720" timestamp="1633403180570" />
+    <state x="1903" y="244" key="run.anything.popup/1280.0.1920.1080/0.0.1280.720@1280.0.1920.1080" timestamp="1633317965332" />
+    <state x="415" y="159" width="672" height="458" key="search.everywhere.popup" timestamp="1633401912014">
+      <screen x="0" y="0" width="1280" height="720" />
+    </state>
+    <state x="415" y="159" width="672" height="458" key="search.everywhere.popup/1280.0.1920.1080/0.0.1280.720@0.0.1280.720" timestamp="1633401912014" />
+    <state x="1903" y="239" width="672" height="687" key="search.everywhere.popup/1280.0.1920.1080/0.0.1280.720@1280.0.1920.1080" timestamp="1633318594161" />
+  </component>
+  <component name="debuggerHistoryManager">
+    <expressions id="watch">
+      <expression>
+        <expression-string>data[i]</expression-string>
+        <language-id>ObjectiveC</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>data.size()</expression-string>
+        <language-id>ObjectiveC</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>data.s</expression-string>
+        <language-id>ObjectiveC</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>obj_path[0]</expression-string>
+        <language-id>ObjectiveC</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>data.c_str()[5]</expression-string>
+        <language-id>ObjectiveC</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>data.c_str()[4]</expression-string>
+        <language-id>ObjectiveC</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>data.c_str()[6]</expression-string>
+        <language-id>ObjectiveC</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>data.c_str()</expression-string>
+        <language-id>ObjectiveC</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>buf = new char[20]</expression-string>
+        <language-id>ObjectiveC</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>s.substr(cur_byte, expect_len)</expression-string>
+        <language-id>ObjectiveC</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+    </expressions>
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/another.h" />
+    <entry file="file://$PROJECT_DIR$/test.cpp" />
+    <entry file="cidr-memory-view://17" />
+    <entry file="cidr-memory-view://7" />
+    <entry file="file://$PROJECT_DIR$/num.h" />
+    <entry file="cidr-memory-view://3" />
+    <entry file="file:///usr/include/c++/11.1.0/bits/stl_algobase.h">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2455">
+          <caret line="229" column="4" selection-start-line="229" selection-start-column="4" selection-end-line="229" selection-end-column="4" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file:///usr/include/c++/11.1.0/bits/unique_ptr.h">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="190">
+          <caret line="665" selection-start-line="665" selection-end-line="665" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="cidr-memory-view://14" />
+    <entry file="file:///usr/include/boost/uuid/detail/sha1.hpp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="119">
+          <caret line="123" selection-start-line="123" selection-end-line="123" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file:///usr/include/c++/11.1.0/bits/fs_ops.h">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="290">
+          <caret line="122" column="2" selection-start-line="122" selection-start-column="2" selection-end-line="122" selection-end-column="2" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/cmake-build-debug/.sgit/c2/2b5f9178342609428d6f51b2c5af4cbde6a42" />
+    <entry file="file://$PROJECT_DIR$/cmake-build-debug/.sgit/56/170f5429b35dea81bb659b884b475ca9329a9" />
+    <entry file="cidr-memory-view://1" />
+    <entry file="file://$PROJECT_DIR$/CMakeLists.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="120">
+          <caret line="5" selection-start-line="5" selection-end-line="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file:///usr/include/stdlib.h">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="143">
+          <caret line="175" column="16" selection-start-line="175" selection-start-column="16" selection-end-line="175" selection-end-column="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="cidr-memory-view://5" />
+    <entry file="file:///usr/include/c++/11.1.0/bits/basic_string.h">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="99">
+          <caret line="185" selection-start-line="185" selection-end-line="185" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/cmake-build-debug/.sgit/aa/f4c61ddcc5e8a2dabede0f3b482cd9aea9434d">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/main.cpp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="294">
+          <caret line="105" column="29" lean-forward="true" selection-start-line="105" selection-start-column="29" selection-end-line="105" selection-end-column="29" />
+          <folding>
+            <element signature="e#0#18#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>

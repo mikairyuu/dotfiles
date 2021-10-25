@@ -1,0 +1,100 @@
+Script started on 2021-08-12 15:25:25+03:00 [TERM="xterm-kitty" TTY="/dev/pts/0" COLUMNS="191" LINES="43"]
+[?25l[?7l[0m[36m[1m      /\
+     /  \
+    /\   \
+[37m[0m[1m   /      \
+  /   ,,   \
+ /   |  |  -\
+/_-''    ''-_\[0m
+[7A[9999999D[17C[0m[1m[36m[1mmikairyuu[0m@[36m[1mmikairyuu-pc[0m 
+[17C[0m----------------------[0m 
+[17C[0m[36m[1mOS[0m[0m:[0m Arch Linux[0m 
+[17C[0m[36m[1mKernel[0m[0m:[0m 5.13.9-zen1-1-zen[0m 
+[17C[0m[36m[1mPackages[0m[0m:[0m 547[0m 
+[17C[0m[36m[1mWM[0m[0m:[0m i3[0m 
+[17C[0m[36m[1mTerminal[0m[0m:[0m script[0m 
+[17C[0m[36m[1mCPU[0m[0m:[0m Ryzen 5 4500U with Radeon Graphics [48.6°C][0m 
+[17C[0m[36m[1mMemory[0m[0m:[0m 983MiB / 15367MiB[0m 
+
+[?25h[?7h]0;mikairyuu@mikairyuu-pc:~/.config/polybar/cuts[?2004h[mikairyuu@mikairyuu-pc cuts]$ ./launch.sh --cutsls[Kcd ~/.config/polybar/ls[K./launch.sh --cuts[Kscri[ts[K[K[K[K[K[K[Kcd sr[Kcripts/
+[?2004l]0;mikairyuu@mikairyuu-pc:~/.config/polybar/cuts/scripts[?2004h[mikairyuu@mikairyuu-pc scripts]$ ls
+[?2004l[0m[01;32mcheckupdates[0m  [01;32mcolors-dark.sh[0m  [01;32mcolors-light.sh[0m  [01;32mcolor-switch.sh[0m  [01;32mlauncher.sh[0m  [01;32mpowermenu.sh[0m  [01;32mpywal.sh[0m  [01;32mrandom.sh[0m  [01;34mrofi[0m  [01;32mstyles.sh[0m  [01;32mstyle-switch.sh[0m  [01;32mupdates.sh[0m
+]0;mikairyuu@mikairyuu-pc:~/.config/polybar/cuts/scripts[?2004h[mikairyuu@mikairyuu-pc scripts]$ st[K[K./style-switch.sh 
+[?2004l./style-switch.sh: line 8: rofi: command not found
+]0;mikairyuu@mikairyuu-pc:~/.config/polybar/cuts/scripts[?2004h[mikairyuu@mikairyuu-pc scripts]$ ./style-switch.sh 
+[?2004l./style-switch.sh: line 8: rofi: command not found
+]0;mikairyuu@mikairyuu-pc:~/.config/polybar/cuts/scripts[?2004h[mikairyuu@mikairyuu-pc scripts]$ ./style-switch.sh [K[K[K[K[K[K[K[K[K[K[Ks.sh 
+[?2004lNo option specified, Available options:
+--mode1   --mode2   --mode3   --mode4   --mode5
+--mode6   --mode7   --mode8   --mode9   --mode10
+]0;mikairyuu@mikairyuu-pc:~/.config/polybar/cuts/scripts[?2004h[mikairyuu@mikairyuu-pc scripts]$ [K[mikairyuu@mikairyuu-pc scripts]$ [K[mikairyuu@mikairyuu-pc scripts]$ ./styles.sh [6@-switch[C[C[C[C
+[?2004lSuccessfully wrote "cmd:restart" to "/tmp/polybar_mqueue.1652"
+Successfully wrote "cmd:restart" to "/tmp/polybar_mqueue.1653"
+]0;mikairyuu@mikairyuu-pc:~/.config/polybar/cuts/scripts[?2004h[mikairyuu@mikairyuu-pc scripts]$ ./style-switch.sh [6Ps[C[C[C[C[6@-switch[C[C[C[C[6Ps[C[C[C[C[6@-switch[C[C[C[C[6Ps[C[C[C[C[6@-switch[C[C[C[C[Kpw[Ky
+pybabel           pydoc3            pygmentize        python3           python3.9-config  python-config     
+pydoc             pydoc3.9          python            python3.9         python3-config    
+[mikairyuu@mikairyuu-pc scripts]$ pyw[K[K[K./w[Kpw[K
+powermenu.sh  pywal.sh      
+[mikairyuu@mikairyuu-pc scripts]$ ./pywal.sh po[K[K./[K[K~/.c[K[KDo
+Documents/ Downloads/ 
+[mikairyuu@mikairyuu-pc scripts]$ ./pywal.sh ~/Documents/wallpaper
+[?2004l[!] 'pywal' is not installed.
+]0;mikairyuu@mikairyuu-pc:~/.config/polybar/cuts/scripts[?2004h[mikairyuu@mikairyuu-pc scripts]$ [K[mikairyuu@mikairyuu-pc scripts]$ ./pywal.sh ~/Documents/wallpaper[14Pstyle-switch.sh pywal.sh ~/Documents/wallpaper
+[?2004l]4;0;#04080E\]4;1;#BCA665\]4;2;#4D6B8E\]4;3;#A86D93\]4;4;#589CA1\]4;5;#9DA49B\]4;6;#C4B6A4\]4;7;#ede7c8\]4;8;#a5a18c\]4;9;#BCA665\]4;10;#4D6B8E\]4;11;#A86D93\]4;12;#589CA1\]4;13;#9DA49B\]4;14;#C4B6A4\]4;15;#ede7c8\]10;#ede7c8\]11;#04080E\]12;#ede7c8\]13;#ede7c8\]17;#ede7c8\]19;#04080E\]4;232;#04080E\]4;256;#ede7c8\]708;#04080E\Successfully wrote "cmd:restart" to "/tmp/polybar_mqueue.1652"
+Successfully wrote "cmd:restart" to "/tmp/polybar_mqueue.1653"
+]0;mikairyuu@mikairyuu-pc:~/.config/polybar/cuts/scripts[?2004h[mikairyuu@mikairyuu-pc scripts]$ sud [Ki[Ko -acman [K[K[K[K[K[Kpacman -R p[K[K[K [KR[K[K[K[K[K[K[K[K[K[Kpaca[Kman -R ned[K
+neofetch  nettle    
+[mikairyuu@mikairyuu-pc scripts]$ sudo pacman -R ne
+neofetch  nettle    
+[mikairyuu@mikairyuu-pc scripts]$ sudo pacman -R nerd[K[K[K[K
+Display all 553 possibilities? (y or n)
+[mikairyuu@mikairyuu-pc scripts]$ sudo pacman -R 
+Display all 553 possibilities? (y or n)
+[mikairyuu@mikairyuu-pc scripts]$ sudo pacman -R [K[K
+-D          --files     -Q          --remove    -U          --version   
+--database  -h          --query     -S          --upgrade   
+-F          --help      -R          --sync      -V          
+[mikairyuu@mikairyuu-pc scripts]$ sudo pacman -[K[K[K[K[K[K[K[K
+Display all 2150 possibilities? (y or n)
+[mikairyuu@mikairyuu-pc scripts]$ sudo [K[K[K[K[Ksudo pacman -R po[K[K
+Display all 553 possibilities? (y or n)
+[mikairyuu@mikairyuu-pc scripts]$ sudo pacman -R [K[KR 
+Display all 553 possibilities? (y or n)
+[mikairyuu@mikairyuu-pc scripts]$ sudo pacman -R 
+Display all 553 possibilities? (y or n)
+[mikairyuu@mikairyuu-pc scripts]$ sudo pacman -R oi[K[Kios[K[K[Kfontconfig [K[K[K[K[K[K[K[K[K[K[Kio[K[Kne
+neofetch  nettle    
+[mikairyuu@mikairyuu-pc scripts]$ sudo pacman -R ne
+neofetch  nettle    
+[mikairyuu@mikairyuu-pc scripts]$ sudo pacman -R nerd-[K[K[K
+neofetch  nettle    
+[mikairyuu@mikairyuu-pc scripts]$ sudo pacman -R ne[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[Kcd ~/o[Kus[K[K.config/[K[K[K[K[K[K[Klocal/share/
+applications/ fonts/        iwctl/        sddm/         
+flatpak/      gegl-0.4/     keyrings/     xorg/         
+[mikairyuu@mikairyuu-pc scripts]$ cd ~/.local/share/
+applications/ fonts/        iwctl/        sddm/         
+flatpak/      gegl-0.4/     keyrings/     xorg/         
+[mikairyuu@mikairyuu-pc scripts]$ cd ~/.local/share/f
+flatpak/ fonts/   
+[mikairyuu@mikairyuu-pc scripts]$ cd ~/.local/share/fonts/
+panels/   terminus/ 
+[mikairyuu@mikairyuu-pc scripts]$ cd ~/.local/share/fonts/
+panels/   terminus/ 
+[mikairyuu@mikairyuu-pc scripts]$ cd ~/.local/share/fonts/
+[?2004l]0;mikairyuu@mikairyuu-pc:~/.local/share/fonts[?2004h[mikairyuu@mikairyuu-pc fonts]$ ls
+[?2004lfantasque_sans_mono.ttf  iosevka_nerd_font.ttf            MonoLisa.ttf  [0m[01;34mterminus[0m
+feather.ttf              material_design_iconic_font.ttf  [01;34mpanels[0m        waffle.bdf
+GoogleSans-Regular.ttf   material.ttf                     Siji.otb
+]0;mikairyuu@mikairyuu-pc:~/.local/share/fonts[?2004h[mikairyuu@mikairyuu-pc fonts]$ fc-cache
+[?2004l]0;mikairyuu@mikairyuu-pc:~/.local/share/fonts[?2004h[mikairyuu@mikairyuu-pc fonts]$ ls[K[Kfc-list | grep nerd
+[?2004l/home/mikairyuu/.local/share/fonts/iosevka_nerd_font.ttf: Iosevka,Iosevka Nerd Font:style=Regular,Book
+]0;mikairyuu@mikairyuu-pc:~/.local/share/fonts[?2004h[mikairyuu@mikairyuu-pc fonts]$ cdp p[K[K[K panels/
+[?2004l]0;mikairyuu@mikairyuu-pc:~/.local/share/fonts/panels[?2004h[mikairyuu@mikairyuu-pc panels]$ ls
+[?2004ldroid_sans.ttf  icomoon_feather.ttf  material.ttf  noto_sans.ttf
+]0;mikairyuu@mikairyuu-pc:~/.local/share/fonts/panels[?2004h[mikairyuu@mikairyuu-pc panels]$ cd ..
+[?2004l]0;mikairyuu@mikairyuu-pc:~/.local/share/fonts[?2004h[mikairyuu@mikairyuu-pc fonts]$ rm -rf materialt[K.ttf \[K
+[?2004l]0;mikairyuu@mikairyuu-pc:~/.local/share/fonts[?2004h[mikairyuu@mikairyuu-pc fonts]$ rm -rf icom[K[K[K[K[K[K[K[K[K[K[Ks[Ksudo pacman -R g[K [K[K ttf-
+ttf-icomoon-feather  ttf-liberation       
+[mikairyuu@mikairyuu-pc fonts]$ sudo pacman -R ttf-
+ttf-icomoon-feather  ttf-liberation       
+[mikairyuu@mikairyuu-pc fonts]$ sudo pacman -R ttf-icomoon-

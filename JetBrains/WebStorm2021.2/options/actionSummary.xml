@@ -1,0 +1,19 @@
+<application>
+  <component name="ActionsLocalSummary">
+    <e n="EditorBackSpace">
+      <i c="8" l="1632529588507" />
+    </e>
+    <e n="ShowSettings">
+      <i c="1" l="1632529672824" />
+    </e>
+    <e n="com.intellij.openapi.wm.impl.welcomeScreen.ActionGroupPanelWrapper$5">
+      <i c="1" l="1632529472254" />
+    </e>
+    <e n="com.intellij.ui.AnActionButton$AnActionButtonWrapper">
+      <i c="1" l="1632529693304" />
+    </e>
+    <e n="tasks.goto">
+      <i c="1" l="1632529585419" />
+    </e>
+  </component>
+</application>

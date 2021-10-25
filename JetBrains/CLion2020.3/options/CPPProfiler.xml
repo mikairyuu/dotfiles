@@ -1,9 +1,0 @@
-<application>
-  <component name="CPPProfilerSettings" executablePath="/usr/bin/perf" samplingFrequency="1000000">
-    <option name="defaultCmdArgs">
-      <option value="--call-graph" />
-      <option value="dwarf" />
-      <option value="-q" />
-    </option>
-  </component>
-</application>

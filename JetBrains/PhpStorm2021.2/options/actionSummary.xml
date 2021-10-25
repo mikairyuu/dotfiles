@@ -1,0 +1,295 @@
+<application>
+  <component name="ActionsLocalSummary">
+    <e n="$Copy">
+      <i c="3" l="1634443994872" />
+    </e>
+    <e n="$Delete">
+      <i c="4" l="1634440871980" />
+    </e>
+    <e n="$Paste">
+      <i c="3" l="1634443995087" />
+    </e>
+    <e n="$Redo">
+      <i c="27" l="1633941213897" />
+    </e>
+    <e n="$SelectAll">
+      <i c="13" l="1634458378692" />
+    </e>
+    <e n="$Undo">
+      <i c="224" l="1635067285265" />
+    </e>
+    <e n="ActivateDatabaseToolWindow">
+      <i c="1" l="1632530418581" />
+    </e>
+    <e n="ChangesView.Refresh">
+      <i c="1" l="1634440846088" />
+    </e>
+    <e n="CheckinProject">
+      <i c="2" l="1634861817767" />
+    </e>
+    <e n="CodeCompletion">
+      <i c="1" l="1634452713702" />
+    </e>
+    <e n="CommentByLineComment">
+      <i c="5" l="1634446969705" />
+    </e>
+    <e n="Console.Jdbc.Terminate">
+      <i c="1" l="1633925309798" />
+    </e>
+    <e n="Console.TableResult.Cancel">
+      <i c="2" l="1633925262977" />
+    </e>
+    <e n="Console.TableResult.DeleteRows">
+      <i c="5" l="1635065501861" />
+    </e>
+    <e n="Console.TableResult.Reload">
+      <i c="17" l="1635065514296" />
+    </e>
+    <e n="Console.TableResult.Submit">
+      <i c="4" l="1635065524035" />
+    </e>
+    <e n="CopyReference">
+      <i c="1" l="1632743385612" />
+    </e>
+    <e n="DatabaseView.AddActionGroupPopup">
+      <i c="9" l="1633227330872" />
+    </e>
+    <e n="DatabaseView.AddDataSourceFromPath">
+      <i c="2" l="1632531741077" />
+    </e>
+    <e n="DatabaseView.CloseConnectionAction">
+      <i c="7" l="1634455598009" />
+    </e>
+    <e n="DatabaseView.DropAction">
+      <i c="1" l="1634455623537" />
+    </e>
+    <e n="DatabaseView.PropertiesAction">
+      <i c="2" l="1633925364040" />
+    </e>
+    <e n="DatabaseView.Refresh">
+      <i c="8" l="1634455608678" />
+    </e>
+    <e n="Docker.ComposeEditorGroup.SyncWithServiceView">
+      <i c="2" l="1632534184079" />
+    </e>
+    <e n="Docker.RemoteServers.RemoveOrphans">
+      <i c="3" l="1632740883284" />
+    </e>
+    <e n="Docker.RemoteServers.StartAllComposeApp">
+      <i c="2" l="1632723698665" />
+    </e>
+    <e n="Docker.RemoteServers.StartComposeService">
+      <i c="1" l="1632537456781" />
+    </e>
+    <e n="Docker.RemoteServers.StartContainer">
+      <i c="3" l="1632724059284" />
+    </e>
+    <e n="Docker.RemoteServers.StopComposeApp">
+      <i c="18" l="1634861546908" />
+    </e>
+    <e n="Docker.RemoteServers.StopComposeService">
+      <i c="5" l="1632742033823" />
+    </e>
+    <e n="Docker.RemoteServers.StopContainer">
+      <i c="1" l="1632723788773" />
+    </e>
+    <e n="EditorBackSpace">
+      <i c="1387" l="1635067291252" />
+    </e>
+    <e n="EditorChooseLookupItem">
+      <i c="200" l="1635047404559" />
+    </e>
+    <e n="EditorCopy">
+      <i c="91" l="1635067275471" />
+    </e>
+    <e n="EditorCut">
+      <i c="39" l="1635047211428" />
+    </e>
+    <e n="EditorDelete">
+      <i c="1" l="1633955555423" />
+    </e>
+    <e n="EditorDeleteToWordStart">
+      <i c="105" l="1635065613112" />
+    </e>
+    <e n="EditorDown">
+      <i c="393" l="1635061978146" />
+    </e>
+    <e n="EditorEnter">
+      <i c="282" l="1635067276697" />
+    </e>
+    <e n="EditorLeft">
+      <i c="277" l="1635067291396" />
+    </e>
+    <e n="EditorNextWord">
+      <i c="41" l="1635061976544" />
+    </e>
+    <e n="EditorPaste">
+      <i c="176" l="1635067276802" />
+    </e>
+    <e n="EditorPasteFromX11">
+      <i c="3" l="1634861142337" />
+    </e>
+    <e n="EditorPreviousWord">
+      <i c="22" l="1635061981648" />
+    </e>
+    <e n="EditorRight">
+      <i c="368" l="1635062072592" />
+    </e>
+    <e n="EditorRightWithSelection">
+      <i c="1" l="1634455061796" />
+    </e>
+    <e n="EditorScrollUp">
+      <i c="3" l="1634441128446" />
+    </e>
+    <e n="EditorSplitLine">
+      <i c="2" l="1634861203778" />
+    </e>
+    <e n="EditorStartNewLine">
+      <i c="2" l="1634457295975" />
+    </e>
+    <e n="EditorTab">
+      <i c="19" l="1634445637565" />
+    </e>
+    <e n="EditorUnindentSelection">
+      <i c="6" l="1632812910264" />
+    </e>
+    <e n="EditorUp">
+      <i c="101" l="1635061977570" />
+    </e>
+    <e n="ExpandRegion">
+      <i c="2" l="1633926348555" />
+    </e>
+    <e n="FindInPath">
+      <i c="7" l="1634447846417" />
+    </e>
+    <e n="Git.Add">
+      <i c="1" l="1633923400630" />
+    </e>
+    <e n="Git.Commit.And.Push.Executor">
+      <i c="6" l="1634861840505" />
+    </e>
+    <e n="GotoDeclaration">
+      <i c="11" l="1634453890739" />
+    </e>
+    <e n="NextTemplateVariable">
+      <i c="4" l="1635047134768" />
+    </e>
+    <e n="OpenFile">
+      <i c="1" l="1632530152774" />
+    </e>
+    <e n="PhpNewClass">
+      <i c="1" l="1634441194233" />
+    </e>
+    <e n="PhpNewFile">
+      <i c="1" l="1633922787978" />
+    </e>
+    <e n="ReformatCode">
+      <i c="66" l="1635047196268" />
+    </e>
+    <e n="RemoteServers.ConnectServer">
+      <i c="7" l="1632725624934" />
+    </e>
+    <e n="RemoteServers.DisconnectServer">
+      <i c="10" l="1632741405760" />
+    </e>
+    <e n="RemoteServers.EditServerConfig">
+      <i c="2" l="1632725627222" />
+    </e>
+    <e n="RenameElement">
+      <i c="7" l="1635047132553" />
+    </e>
+    <e n="ReplaceInPath">
+      <i c="1" l="1633922967745" />
+    </e>
+    <e n="Run">
+      <i c="21" l="1634861544963" />
+    </e>
+    <e n="RunAnything">
+      <i c="1" l="1633236013113" />
+    </e>
+    <e n="RunClass">
+      <i c="1" l="1632535319309" />
+    </e>
+    <e n="SaveAll">
+      <i c="2" l="1632742028365" />
+    </e>
+    <e n="SearchEverywhere">
+      <i c="1" l="1632725009760" />
+    </e>
+    <e n="ServiceView.OpenInNewTab">
+      <i c="1" l="1632533280368" />
+    </e>
+    <e n="ShowIntentionActions">
+      <i c="7" l="1634450710152" />
+    </e>
+    <e n="ShowSettings">
+      <i c="4" l="1632871831325" />
+    </e>
+    <e n="TabList">
+      <i c="6" l="1635065393731" />
+    </e>
+    <e n="ToggleLineBreakpoint">
+      <i c="3" l="1634861402454" />
+    </e>
+    <e n="Vcs.ToggleAmendCommitMode">
+      <i c="4" l="1634861820436" />
+    </e>
+    <e n="Vcs.UpdateProject">
+      <i c="1" l="1633158600325" />
+    </e>
+    <e n="com.intellij.database.dataSource.LocalDataSourceManager$3">
+      <i c="2" l="1632743275854" />
+    </e>
+    <e n="com.intellij.database.dataSource.url.ui.DynamicJdbcUrlEditor$7">
+      <i c="1" l="1632531693953" />
+    </e>
+    <e n="com.intellij.database.view.ui.DatabaseConfigSideTab$RemoveAction">
+      <i c="1" l="1632531734956" />
+    </e>
+    <e n="com.intellij.ide.plugins.PluginManagerMain$2">
+      <i c="1" l="1632530666104" />
+    </e>
+    <e n="com.intellij.notification.NotificationAction$Simple">
+      <i c="2" l="1633229238774" />
+    </e>
+    <e n="com.intellij.openapi.editor.impl.EditorMarkupModelImpl$StatusAction">
+      <i c="2" l="1634441374912" />
+    </e>
+    <e n="com.intellij.openapi.fileEditor.impl.tabActions.CloseTab">
+      <i c="34" l="1635065528008" />
+    </e>
+    <e n="com.intellij.openapi.project.DumbAwareAction$SimpleDumbAwareAction">
+      <i c="3" l="1634447849247" />
+    </e>
+    <e n="com.intellij.openapi.ui.DialogWrapper$4">
+      <i c="13" l="1635070218683" />
+    </e>
+    <e n="com.intellij.openapi.vcs.ex.LocalLineStatusTrackerImpl$LocalLineStatusMarkerRenderer$RollbackLineStatusRangeAction">
+      <i c="1" l="1634861423605" />
+    </e>
+    <e n="com.intellij.openapi.wm.impl.DockToolWindowAction">
+      <i c="2" l="1634861650698" />
+    </e>
+    <e n="com.intellij.openapi.wm.impl.ToolWindowHeader$HideAction">
+      <i c="2" l="1633923726831" />
+    </e>
+    <e n="com.intellij.openapi.wm.impl.welcomeScreen.ActionGroupPanelWrapper$5">
+      <i c="2" l="1632530011837" />
+    </e>
+    <e n="com.intellij.ui.AnActionButton$AnActionButtonWrapper">
+      <i c="1" l="1632530095331" />
+    </e>
+    <e n="com.intellij.ui.ScrollingUtil$TableMoveDownAction">
+      <i c="7" l="1633160701541" />
+    </e>
+    <e n="com.intellij.ui.ScrollingUtil$TableMoveUpAction">
+      <i c="6" l="1633160698202" />
+    </e>
+    <e n="com.intellij.xdebugger.impl.breakpoints.RemoveBreakpointGutterIconAction">
+      <i c="1" l="1634861403224" />
+    </e>
+    <e n="org.jetbrains.plugins.terminal.AbstractTerminalRunner$2">
+      <i c="15" l="1633957163573" />
+    </e>
+  </component>
+</application>

@@ -1,0 +1,125 @@
+<project version="4">
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="-1">
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/main.kt">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="22">
+              <caret line="1" selection-start-line="1" selection-end-line="1" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="IdeDocumentHistory">
+    <changedPaths>
+      <option value="$PROJECT_DIR$/src/main.kt" />
+    </changedPaths>
+  </component>
+  <component name="IgnoredFileRootStore">
+    <option name="generatedRoots">
+      <set>
+        <option value="$PROJECT_DIR$/.idea" />
+      </set>
+    </option>
+  </component>
+  <component name="ProjectView">
+    <navigator currentView="ProjectPane" proportions="" version="1" />
+    <panes>
+      <pane id="PackagesPane" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="ktproject" type="b2602c69:ProjectViewProjectNode" />
+              <item name="ktproject" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="ktproject" type="b2602c69:ProjectViewProjectNode" />
+              <item name="ktproject" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="Scope" />
+    </panes>
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="567000" />
+  </component>
+  <component name="ToolWindowManager">
+    <layout>
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.25039184" />
+      <window_info id="Structure" order="1" side_tool="true" />
+      <window_info id="Favorites" order="2" side_tool="true" />
+      <window_info id="Commit" order="3" />
+      <window_info id="Learn" order="4" />
+      <window_info id="Pull Requests" order="5" />
+      <window_info id="Space Code Reviews" order="6" />
+      <window_info anchor="bottom" id="Version Control" order="0" />
+      <window_info anchor="bottom" id="Event Log" order="1" side_tool="true" />
+      <window_info anchor="bottom" id="Find" order="2" />
+      <window_info anchor="bottom" id="Run" order="3" weight="0.33030725" />
+      <window_info anchor="bottom" id="Debug" order="4" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="5" />
+      <window_info anchor="bottom" id="Problems View" order="6" />
+      <window_info anchor="bottom" id="Profiler" order="7" />
+      <window_info anchor="bottom" id="Inspection" order="8" weight="0.4" />
+      <window_info anchor="bottom" id="Internal Method Tracing" order="9" />
+      <window_info anchor="bottom" id="File Transfer" order="10" />
+      <window_info anchor="bottom" id="Terminal" order="11" />
+      <window_info anchor="bottom" id="Database Changes" order="12" show_stripe_button="false" />
+      <window_info anchor="bottom" id="TypeScript" order="13" />
+      <window_info anchor="bottom" id="Flow" order="14" />
+      <window_info anchor="bottom" id="Endpoints" order="15" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Build" order="16" />
+      <window_info anchor="bottom" id="Services" order="17" show_stripe_button="false" />
+      <window_info anchor="right" id="Database" order="0" />
+      <window_info anchor="right" id="Space Automation" order="1" />
+      <window_info anchor="right" id="Desktop Preview" order="7" />
+    </layout>
+    <recentWindows>
+      <value>Project</value>
+      <value>Run</value>
+    </recentWindows>
+  </component>
+  <component name="Trusted.Project.Settings" hasCheckedIfOldProject="true" trusted="YES" />
+  <component name="WindowStateProjectService">
+    <state width="1230" height="208" key="GridCell.Tab.0.bottom" timestamp="1632383286247">
+      <screen x="0" y="0" width="1280" height="720" />
+    </state>
+    <state width="1230" height="208" key="GridCell.Tab.0.bottom/1280.0.1920.1080/0.0.1280.720@0.0.1280.720" timestamp="1632383286247" />
+    <state width="1230" height="208" key="GridCell.Tab.0.center" timestamp="1632383286246">
+      <screen x="0" y="0" width="1280" height="720" />
+    </state>
+    <state width="1230" height="208" key="GridCell.Tab.0.center/1280.0.1920.1080/0.0.1280.720@0.0.1280.720" timestamp="1632383286246" />
+    <state width="1230" height="208" key="GridCell.Tab.0.left" timestamp="1632383286246">
+      <screen x="0" y="0" width="1280" height="720" />
+    </state>
+    <state width="1230" height="208" key="GridCell.Tab.0.left/1280.0.1920.1080/0.0.1280.720@0.0.1280.720" timestamp="1632383286246" />
+    <state width="1230" height="208" key="GridCell.Tab.0.right" timestamp="1632383286247">
+      <screen x="0" y="0" width="1280" height="720" />
+    </state>
+    <state width="1230" height="208" key="GridCell.Tab.0.right/1280.0.1920.1080/0.0.1280.720@0.0.1280.720" timestamp="1632383286247" />
+    <state x="257" y="-40" key="SettingsEditor" timestamp="1634460067858">
+      <screen x="0" y="0" width="1280" height="720" />
+    </state>
+    <state x="257" y="-40" key="SettingsEditor/1280.0.1920.1080/0.0.1280.720@1280.0.1920.1080" timestamp="1634460067858" />
+    <state x="459" y="-20" width="820" height="720" key="new project wizard" timestamp="1634460227385">
+      <screen x="0" y="0" width="1280" height="720" />
+    </state>
+    <state x="459" y="-20" width="820" height="720" key="new project wizard/1280.0.1920.1080/0.0.1280.720@1280.0.1920.1080" timestamp="1634460227385" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/src/main.kt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="22">
+          <caret line="1" selection-start-line="1" selection-end-line="1" />
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>

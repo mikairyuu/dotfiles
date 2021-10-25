@@ -1,0 +1,81 @@
+<project version="4">
+  <component name="IgnoredFileRootStore">
+    <option name="generatedRoots">
+      <set>
+        <option value="$PROJECT_DIR$/.idea" />
+      </set>
+    </option>
+  </component>
+  <component name="ProjectView">
+    <navigator currentView="ProjectPane" proportions="" version="1" />
+    <panes>
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="123" type="b2602c69:ProjectViewProjectNode" />
+              <item name="123" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="Scope" />
+    </panes>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="157000" />
+  </component>
+  <component name="ToolWindowManager">
+    <layout>
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.25026095" />
+      <window_info id="Structure" order="1" side_tool="true" />
+      <window_info id="Favorites" order="2" side_tool="true" />
+      <window_info id="Commit" order="3" />
+      <window_info id="Pull Requests" order="4" />
+      <window_info anchor="bottom" id="Version Control" order="0" />
+      <window_info anchor="bottom" id="Event Log" order="1" side_tool="true" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="bottom" id="Run" order="2" />
+      <window_info anchor="bottom" id="TODO" order="3" />
+      <window_info anchor="bottom" id="Problems View" order="3" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Inspection" order="4" weight="0.4" />
+      <window_info anchor="bottom" id="File Transfer" order="4" />
+      <window_info anchor="bottom" id="Terminal" order="4" />
+      <window_info anchor="bottom" id="Internal Method Tracing" order="5" />
+      <window_info anchor="bottom" id="Database Changes" order="5" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Flow" order="5" />
+      <window_info anchor="bottom" id="TypeScript" order="5" />
+      <window_info anchor="bottom" id="Services" order="5" visible="true" weight="0.32990196" />
+      <window_info anchor="right" id="Database" order="5" />
+    </layout>
+    <recentWindows>
+      <value>Project</value>
+      <value>Services</value>
+    </recentWindows>
+  </component>
+  <component name="Trusted.Project.Settings" hasCheckedIfOldProject="true" trusted="YES" />
+  <component name="WindowStateProjectService">
+    <state x="1542" y="268" width="426" height="475" key="FileChooserDialogImpl" timestamp="1632530176549">
+      <screen x="1280" y="0" width="1920" height="1080" />
+    </state>
+    <state x="1542" y="268" width="426" height="475" key="FileChooserDialogImpl/1280.0.1920.1080/0.0.1280.720@1280.0.1920.1080" timestamp="1632530176549" />
+    <state x="1726" y="105" key="SettingsEditor" timestamp="1632530099316">
+      <screen x="1280" y="0" width="1920" height="1080" />
+    </state>
+    <state x="1726" y="105" key="SettingsEditor/1280.0.1920.1080/0.0.1280.720@1280.0.1920.1080" timestamp="1632530099316" />
+  </component>
+</project>

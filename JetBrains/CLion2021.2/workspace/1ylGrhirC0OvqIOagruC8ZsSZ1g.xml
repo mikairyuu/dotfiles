@@ -1,0 +1,218 @@
+<project version="4">
+  <component name="BranchesTreeState">
+    <expand>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </expand>
+    <select />
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="-1">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/Polyselect.rs">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="48">
+              <caret line="4" column="1" selection-start-line="4" selection-start-column="1" selection-end-line="4" selection-end-column="1" />
+              <folding>
+                <element signature="e#23#24#0" expanded="true" />
+                <element signature="e#50#51#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/helper.rs">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="312">
+              <caret line="19" column="34" selection-start-line="19" selection-start-column="34" selection-end-line="19" selection-end-column="34" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Cargo.toml">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="312">
+              <caret line="13" column="21" selection-start-line="13" selection-start-column="21" selection-end-line="13" selection-end-column="21" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="IdeDocumentHistory">
+    <changedPaths>
+      <option value="$PROJECT_DIR$/src/main.rs" />
+      <option value="$PROJECT_DIR$/Polyselect.rs" />
+      <option value="$PROJECT_DIR$/src/Helper.rs" />
+      <option value="$PROJECT_DIR$/src/cfgmgr.rs" />
+      <option value="$PROJECT_DIR$/src/Polyselect.rs" />
+      <option value="$PROJECT_DIR$/Cargo.toml" />
+      <option value="$PROJECT_DIR$/src/helper.rs" />
+    </changedPaths>
+  </component>
+  <component name="IgnoredFileRootStore">
+    <option name="generatedRoots">
+      <set>
+        <option value="$PROJECT_DIR$/.idea" />
+      </set>
+    </option>
+  </component>
+  <component name="ProjectView">
+    <navigator currentView="ProjectPane" proportions="" version="1" />
+    <panes>
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="polyselect" type="b2602c69:ProjectViewProjectNode" />
+              <item name="polyselect" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="polyselect" type="b2602c69:ProjectViewProjectNode" />
+              <item name="polyselect" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="Scope" />
+    </panes>
+  </component>
+  <component name="TerminalArrangementManager">
+    <option name="myTabStates">
+      <TerminalTabState tabName="Local" currentWorkingDirectory="$PROJECT_DIR$" commandHistoryFileName="polyselect-history" />
+    </option>
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="29244000" />
+  </component>
+  <component name="ToolWindowManager">
+    <editor active="true" />
+    <layout>
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.08973354" />
+      <window_info id="Structure" order="1" side_tool="true" />
+      <window_info id="Favorites" order="2" side_tool="true" />
+      <window_info id="Commit" order="3" />
+      <window_info id="Pull Requests" order="4" />
+      <window_info anchor="bottom" id="Version Control" order="0" />
+      <window_info anchor="bottom" id="Event Log" order="1" side_tool="true" />
+      <window_info anchor="bottom" id="Find" order="2" />
+      <window_info anchor="bottom" id="Run" order="3" weight="0.41029412" />
+      <window_info anchor="bottom" id="Debug" order="4" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="5" />
+      <window_info anchor="bottom" id="Problems View" order="6" />
+      <window_info anchor="bottom" id="Inspection" order="7" weight="0.4" />
+      <window_info anchor="bottom" id="File Transfer" order="8" />
+      <window_info anchor="bottom" id="Terminal" order="9" weight="0.33030725" />
+      <window_info anchor="bottom" id="clangd" order="10" />
+      <window_info anchor="bottom" id="Database Changes" order="11" show_stripe_button="false" />
+      <window_info anchor="bottom" id="TypeScript" order="12" />
+      <window_info anchor="bottom" id="Build" order="13" visible="true" weight="0.32990196" />
+      <window_info anchor="bottom" id="Python Packages" order="14" />
+      <window_info anchor="bottom" id="Internal Method Tracing" order="15" />
+      <window_info anchor="bottom" id="Messages" order="16" />
+      <window_info anchor="bottom" id="Flow" order="17" />
+      <window_info anchor="bottom" id="Services" order="18" show_stripe_button="false" />
+      <window_info anchor="right" id="Cargo" order="0" />
+      <window_info anchor="right" id="Database" order="1" />
+      <window_info anchor="right" id="make" order="2" show_stripe_button="false" side_tool="true" />
+    </layout>
+    <recentWindows>
+      <value>Project</value>
+      <value>Build</value>
+      <value>Run</value>
+      <value>Terminal</value>
+    </recentWindows>
+  </component>
+  <component name="Trusted.Project.Settings" hasCheckedIfOldProject="true" trusted="YES" />
+  <component name="WindowStateProjectService">
+    <state x="1971" y="239" width="526" height="494" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1632917165604">
+      <screen x="1280" y="0" width="1920" height="1080" />
+    </state>
+    <state x="1971" y="239" width="526" height="494" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/1280.0.1920.1080/0.0.1280.720@1280.0.1920.1080" timestamp="1632917165604" />
+    <state x="1426" y="97" width="426" height="475" key="FileChooserDialogImpl" timestamp="1632892789136">
+      <screen x="1280" y="0" width="1920" height="1080" />
+    </state>
+    <state x="98" y="78" width="426" height="475" key="FileChooserDialogImpl/1280.0.1920.1080/0.0.1280.720@0.0.1280.720" timestamp="1632823846013" />
+    <state x="1426" y="97" key="FileChooserDialogImpl/1280.0.1920.1080/0.0.1280.720@1280.0.1920.1080" timestamp="1632892789136" />
+    <state width="1870" height="390" key="GridCell.Tab.0.bottom" timestamp="1632917012235">
+      <screen x="1280" y="0" width="1920" height="1080" />
+    </state>
+    <state width="1230" height="208" key="GridCell.Tab.0.bottom/1280.0.1920.1080/0.0.1280.720@0.0.1280.720" timestamp="1632826928673" />
+    <state width="1870" height="390" key="GridCell.Tab.0.bottom/1280.0.1920.1080/0.0.1280.720@1280.0.1920.1080" timestamp="1632917012235" />
+    <state width="1870" height="390" key="GridCell.Tab.0.center" timestamp="1632917012234">
+      <screen x="1280" y="0" width="1920" height="1080" />
+    </state>
+    <state width="1230" height="208" key="GridCell.Tab.0.center/1280.0.1920.1080/0.0.1280.720@0.0.1280.720" timestamp="1632826928671" />
+    <state width="1870" height="390" key="GridCell.Tab.0.center/1280.0.1920.1080/0.0.1280.720@1280.0.1920.1080" timestamp="1632917012234" />
+    <state width="1870" height="390" key="GridCell.Tab.0.left" timestamp="1632917012227">
+      <screen x="1280" y="0" width="1920" height="1080" />
+    </state>
+    <state width="1230" height="208" key="GridCell.Tab.0.left/1280.0.1920.1080/0.0.1280.720@0.0.1280.720" timestamp="1632826928671" />
+    <state width="1870" height="390" key="GridCell.Tab.0.left/1280.0.1920.1080/0.0.1280.720@1280.0.1920.1080" timestamp="1632917012227" />
+    <state width="1870" height="390" key="GridCell.Tab.0.right" timestamp="1632917012235">
+      <screen x="1280" y="0" width="1920" height="1080" />
+    </state>
+    <state width="1230" height="208" key="GridCell.Tab.0.right/1280.0.1920.1080/0.0.1280.720@0.0.1280.720" timestamp="1632826928672" />
+    <state width="1870" height="390" key="GridCell.Tab.0.right/1280.0.1920.1080/0.0.1280.720@1280.0.1920.1080" timestamp="1632917012235" />
+    <state x="1728" y="145" key="SettingsEditor" timestamp="1632872346535">
+      <screen x="1280" y="0" width="1920" height="1080" />
+    </state>
+    <state x="1728" y="145" key="SettingsEditor/1280.0.1920.1080/0.0.1280.720@1280.0.1920.1080" timestamp="1632872346535" />
+    <state x="872" y="230" width="407" height="151" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1632962626530">
+      <screen x="0" y="0" width="1280" height="720" />
+    </state>
+    <state x="872" y="230" width="407" height="151" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/1280.0.1920.1080/0.0.1280.720@1280.0.1920.1080" timestamp="1632962626530" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/Polyselect.rs" />
+    <entry file="file://$USER_HOME$/.cargo/registry/src/github.com-1ecc6299db9ec823/fltk-sys-0.10.15/cfltk/fltk/src/drivers/Xlib/Fl_Xlib_Graphics_Driver_image.cxx">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="178">
+          <caret line="46" selection-start-line="46" selection-end-line="46" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file:///usr/include/pango-1.0/pango/pango-coverage.h">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="178">
+          <caret line="27" selection-start-line="27" selection-end-line="27" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Cargo.lock">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/configmgr.rs" />
+    <entry file="file://$PROJECT_DIR$/src/Polyselect.rs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="48">
+          <caret line="4" column="1" selection-start-line="4" selection-start-column="1" selection-end-line="4" selection-end-column="1" />
+          <folding>
+            <element signature="e#23#24#0" expanded="true" />
+            <element signature="e#50#51#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Cargo.toml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="312">
+          <caret line="13" column="21" selection-start-line="13" selection-start-column="21" selection-end-line="13" selection-end-column="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/helper.rs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="312">
+          <caret line="19" column="34" selection-start-line="19" selection-start-column="34" selection-end-line="19" selection-end-column="34" />
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>

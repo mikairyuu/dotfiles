@@ -1,0 +1,33 @@
+<application>
+  <component name="RecentProjectsManager">
+    <option name="additionalInfo">
+      <map>
+        <entry key="$USER_HOME$/PhpstormProjects/123">
+          <value>
+            <RecentProjectMetaInfo frameTitle="123" projectWorkspaceId="1ybpD25v9Rzr5DFTutIpExcestL">
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="build" value="PS-212.5284.49" />
+              <option name="buildTimestamp" value="1631779447988" />
+              <frame x="1281" y="10" width="958" height="1041" />
+              <option name="productionCode" value="PS" />
+              <option name="projectOpenTimestamp" value="1632530019177" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/dev/laravel-app">
+          <value>
+            <RecentProjectMetaInfo frameTitle="laravel-app – Appeal.php" opened="true" projectWorkspaceId="1ybpX2nwDqAkdDUzbfYHcCJtST2">
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="build" value="PS-212.5284.49" />
+              <option name="buildTimestamp" value="1631779447988" />
+              <frame x="1" y="-18" width="1278" height="737" />
+              <option name="productionCode" value="PS" />
+              <option name="projectOpenTimestamp" value="1632530178013" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="lastProjectLocation" value="$USER_HOME$/PhpstormProjects" />
+  </component>
+</application>

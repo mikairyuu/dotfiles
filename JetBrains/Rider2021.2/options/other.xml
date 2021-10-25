@@ -1,0 +1,61 @@
+<application>
+  <component name="ProjectPluginTrackerManager">
+    <trackers>
+      <map>
+        <entry key="1zFLjrV4fZNJfetvIV65eulmGgj">
+          <value>
+            <ProjectPluginTracker />
+          </value>
+        </entry>
+        <entry key="1zFNhKgV4IUjw1ba81GVciON6d4">
+          <value>
+            <ProjectPluginTracker />
+          </value>
+        </entry>
+        <entry key="1zFbMrbxsWcWJQKk1IHqPJNFNjL">
+          <value>
+            <ProjectPluginTracker />
+          </value>
+        </entry>
+        <entry key="1zsnEBn3kb7bZZLelhBge47kjwa">
+          <value>
+            <ProjectPluginTracker />
+          </value>
+        </entry>
+      </map>
+    </trackers>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="DBE.Default.Dialect" value="MySQL" />
+    <property name="Debug.Allow.Typing" value="true" />
+    <property name="ExpandBeforeRunStepsPanel" value="true" />
+    <property name="NonModalCommitCustomization.IsApplied" value="true" />
+    <property name="RD.Init.Cfg.2" value="true" />
+    <property name="RD.Init.DialogShown.Ide" value="true" />
+    <property name="RD.Switch.Laf" value="true" />
+    <property name="Tutorials.In.Recent.Projects.Disabled" value="true" />
+    <property name="appcds.runOnSecondStart" value="RD-212.5284.64-db9d2fd3e2eaad2b645668405dbb40c13d646580fc2267f7bde05a1850af6c74" />
+    <property name="ask.about.ctrl.y.shortcut.v2" value="true" />
+    <property name="evlsprt3.212" value="12" />
+    <property name="experimentalFeature.editor.reader.mode" value="false" />
+    <property name="file.chooser.recent.files" value="$USER_HOME$/RiderProjects/vtb-backend/vtb-backend.csproj" />
+    <property name="file.gist.reindex.count" value="77" />
+    <property name="fileTypeChangedCounter" value="2" />
+    <property name="fileTypeDetectors" value="com.intellij.database.vfs.DbStorageFileType$Detector:com.intellij.ide.scratch.ScratchFileServiceImpl$Detector:com.intellij.javascript.debugger.sourcemap.SourceMapFileType$MyFileTypeDetector:com.jetbrains.nodejs.util.NodeFileTypeDetector$JavaScriptFileTypeDetector:com.jetbrains.nodejs.util.NodeFileTypeDetector$TypeScriptFileTypeDetector:com.jetbrains.rider.cpp.fileType.CppHeaderFileTypeDetector:org.jetbrains.plugins.textmate.TextMateFileType$TextMateFileDetector" />
+    <property name="ide.updates.previous.build.number" value="RD-212.5284.64" />
+    <property name="ignoreUltimateEdition" value="true" />
+    <property name="input.method.disabler.muted" value="true" />
+    <property name="last_open_solution_path" value="$USER_HOME$/RiderProjects/vtb-backend" />
+    <property name="last_opened_file_path" value="$USER_HOME$/RiderProjects/vtb-backend/vtb-backend.csproj" />
+    <property name="last_selected_template" value="ASP.NET Core Web Application|.NET / .NET Core" />
+    <property name="last_selected_template_parameters" value="Type=Web API;Language=C#;DockerSupport=Disabled;Framework=net5.0;" />
+    <property name="registry.to.advanced.settings.migration.build" value="RD-212.5284.64" />
+    <property name="settings.code.style.selected.tab.C#" value="Naming" />
+    <property name="tasks.pass.word.conversion.enforced" value="true" />
+    <property name="toolwindow.stripes.buttons.info.shown" value="true" />
+    <property name="ts.lib.d.ts.version" value="4.3.5" />
+  </component>
+  <component name="ToolbarSettingsService">
+    <option name="NEW_TOOLBAR_SETTINGS" value="OLD_NAVBAR" />
+  </component>
+</application>

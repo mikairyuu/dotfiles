@@ -1,0 +1,82 @@
+<application>
+  <component name="CratesLocalIndexState">
+    <option name="indexedCommitHash" value="&lt;invalid&gt;" />
+  </component>
+  <component name="NotRoamableUiSettings">
+    <option name="fontFace" value="MonoLisa" />
+  </component>
+  <component name="ProjectPluginTrackerManager">
+    <trackers>
+      <map>
+        <entry key="1yRKKAFMb5lWPGd7hmUy6yg7NoK">
+          <value>
+            <ProjectPluginTracker />
+          </value>
+        </entry>
+        <entry key="1ylGrhirC0OvqIOagruC8ZsSZ1g">
+          <value>
+            <ProjectPluginTracker />
+          </value>
+        </entry>
+        <entry key="1yngO1JjMLURJlwCibmZ04V513c">
+          <value>
+            <ProjectPluginTracker />
+          </value>
+        </entry>
+        <entry key="1z8OK2eq5m7ERarz7GgxKclNgkK">
+          <value>
+            <ProjectPluginTracker />
+          </value>
+        </entry>
+        <entry key="Default (Template) Project">
+          <value>
+            <ProjectPluginTracker />
+          </value>
+        </entry>
+      </map>
+    </trackers>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="ExpandBeforeRunStepsPanel" value="true" />
+    <property name="FindSplitterProportion" value="0.32959852" />
+    <property name="InstalledPluginsSearchHistory" value="rust&#10;rus&#10;r&#10;base16&#10;base1" />
+    <property name="MarketplacePluginsSearchHistory" value="rust&#10;base16&#10;gruvbox&#10;gruv&#10;gru" />
+    <property name="NonModalCommitCustomization.IsApplied" value="true" />
+    <property name="PluginConfigurable.selectionTab" value="1" />
+    <property name="SettingsSearchHistory" value="sani&#10;Code Style" />
+    <property name="appcds.runOnSecondStart" value="CL-212.5284.51-98bf6002751a66ce55d6354adb86846e5f7d618d7e7e860cf14b9e1db1bc8729" />
+    <property name="ask.about.ctrl.y.shortcut.v2" value="true" />
+    <property name="build.toolwindow.Build Output.selection.state" value="com.intellij.build.BuildTreeConsoleView" />
+    <property name="build.toolwindow.Sync.selection.state" value="com.intellij.build.BuildTreeConsoleView" />
+    <property name="clion.initialConfigPerformed" value="true" />
+    <property name="debugger.speed.search.tree.option.hint.counter" value="1" />
+    <property name="evlsprt3.212" value="12" />
+    <property name="file.chooser.recent.files" value="/usr/lib/rustlib/src/rust&#10;/usr/lib/rustlib/src&#10;/usr/lib/rustlib/src/rust/src&#10;/bin/gdb&#10;/bin/cmake" />
+    <property name="file.gist.reindex.count" value="143" />
+    <property name="fileTypeChangedCounter" value="2" />
+    <property name="fileTypeDetectors" value="com.intellij.database.vfs.DbStorageFileType$Detector:com.intellij.ide.scratch.ScratchFileServiceImpl$Detector:com.intellij.javascript.debugger.sourcemap.SourceMapFileType$MyFileTypeDetector:com.jetbrains.cidr.lang.OCHeaderFileTypeDetector:org.jetbrains.plugins.textmate.TextMateFileType$TextMateFileDetector" />
+    <property name="got.it.tooltip.cwm.invitation.notification" value="1" />
+    <property name="got.it.tooltip.reader.mode.got.it" value="1" />
+    <property name="got.it.tooltip.terminal.smart_command_execution" value="1" />
+    <property name="ide.updates.previous.build.number" value="CL-212.5284.51" />
+    <property name="ide.updates.whats.new.shown.for" value="212" />
+    <property name="input.method.disabler.muted" value="true" />
+    <property name="last_opened_file_path" value="/bin/gdb" />
+    <property name="log.trace.categories" value="#com.jetbrains.rdserver.requests&#10;#com.jetbrains.rd.ide.document&#10;#com.jetbrains.rdserver.document&#10;#com.jetbrains.rdserver.editors&#10;#com.jetbrains.rdserver.actions&#10;#com.jetbrains.rdserver.permissions" />
+    <property name="org.rust.lang.LAST_UPDATE" value="1633002932904" />
+    <property name="org.rust.lang.LAST_VERSION" value="0.4.156.4145-212" />
+    <property name="registry.to.advanced.settings.migration.build" value="CL-212.5284.51" />
+    <property name="settings.code.style.selected.tab.ObjectiveC" value="Code Generation" />
+    <property name="tasks.pass.word.conversion.enforced" value="true" />
+    <property name="ts.lib.d.ts.version" value="4.3.5" />
+  </component>
+  <component name="TerminalCommandHistoryManager">
+    <command-history-files>
+      <command-history-file filename="project-history" project-path="$USER_HOME$/CLionProjects/project" last-access-time="1633241891809" />
+      <command-history-file filename="polyselect-history" project-path="$USER_HOME$/CLionProjects/polyselect" last-access-time="1632902125008" />
+    </command-history-files>
+  </component>
+  <component name="ToolbarSettingsService">
+    <option name="NEW_TOOLBAR_SETTINGS" value="OLD_NAVBAR" />
+  </component>
+</application>

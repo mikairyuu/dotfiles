@@ -1,0 +1,3 @@
+show_only = ["Distribution","Kernel","Packages","WindowManager", "Processor", "Terminal"]
+color = "Cyan"
+no_box = true
